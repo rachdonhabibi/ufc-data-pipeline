@@ -1,5 +1,6 @@
 # ufc-data-pipeline
-This project is an end-to-end ETL pipeline for UFC event and fight data. It scrapes data from UFCStats, transforms and cleans it, and loads it into a PostgreSQL data warehouse using Airflow for orchestration.
+
+Every week, new UFC events and fights take place, generating a wealth of data on athletes, results, and performance metrics. Tracking and analyzing this information manually is time-consuming and error-prone. This project provides an automated solution: it scrapes fresh UFC data on a regular schedule, processes and cleans it, and loads it into a structured data warehouse. By leveraging Airflow for orchestration, you can easily schedule the pipeline to run after each event, ensuring your database is always up-to-date for analytics, reporting, and insights into fighters and fight outcomes. Whether you're a data analyst, sports enthusiast, or developer, this pipeline makes UFC data accessible and actionable.
 
 ## Table of Contents
 <!-- To be filled as the README develops -->
