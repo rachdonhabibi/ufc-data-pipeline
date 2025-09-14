@@ -1,0 +1,11 @@
+logs/
+ufc_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+env/
+venv/
+*.sqlite3
+.DS_Store

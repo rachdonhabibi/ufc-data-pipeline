@@ -1,0 +1,595 @@
+fight_url,fighter_1_url,fighter_2_url,event_url,weight_class,method,method_type,round,time,time_seconds,total_fight_time_seconds,winner
+5bcd8abf6da01dae,881bf86d4cba8578,4126a78111c0855a,6e380a4d73ab4f0e,Middleweight,U-DEC,Unanimous Decision,5,5:00,300,1500,881bf86d4cba8578
+d14fea43712707f0,c2299ec916bc7c56,9c393e836a852f30,6e380a4d73ab4f0e,Lightweight,SUB,Submission,2,2:56,176,476,c2299ec916bc7c56
+0149e875b31e57f8,476fe566d2df676e,eabf206b162b3b83,6e380a4d73ab4f0e,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,5:00,300,300,476fe566d2df676e
+69b31593175f77ec,f6ad6a1e4d600e0d,4bdedbdeedff7d1d,6e380a4d73ab4f0e,Lightweight,KO/TKO,Knockout or Technical Knockout,2,3:18,198,498,f6ad6a1e4d600e0d
+a47123ae6e048f11,1d2d98ddd05b38fb,f748267c4ab6c127,6e380a4d73ab4f0e,Welterweight,KO/TKO,Knockout or Technical Knockout,3,2:02,122,722,1d2d98ddd05b38fb
+b53031bf4bd0a330,e1d40e8782d80bc2,92aed9d16794f42b,6e380a4d73ab4f0e,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,e1d40e8782d80bc2
+4080b4310d82b42d,46e2011d92463b7e,49edd0d90f60fb7d,6e380a4d73ab4f0e,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,4:42,282,282,46e2011d92463b7e
+23dbe713c4294c66,7d8435c56043b0ae,c9cf753cfdf77fc2,6e380a4d73ab4f0e,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,2:03,123,123,7d8435c56043b0ae
+5cd2dd6075fadcce,ec13c393d029297d,2dbc60c52de126d8,6e380a4d73ab4f0e,Lightweight,KO/TKO,Knockout or Technical Knockout,1,3:21,201,201,ec13c393d029297d
+420211200a35c1d1,8b6e5dc2ba1edbe7,31dbfbe4e7a6727c,6e380a4d73ab4f0e,Welterweight,KO/TKO,Knockout or Technical Knockout,1,3:01,181,181,8b6e5dc2ba1edbe7
+b3253e2c2d111030,f96856f9d69fd7e4,0c6d9ea8306c029e,6e380a4d73ab4f0e,Middleweight,KO/TKO,Knockout or Technical Knockout,3,1:43,103,703,f96856f9d69fd7e4
+d56a59a4c79cf515,8f765fd5775a8873,2caf993f53541fa1,6e380a4d73ab4f0e,Welterweight,KO/TKO,Knockout or Technical Knockout,1,0:54,54,54,8f765fd5775a8873
+a38010639e61885c,e94085e821bd81de,9c442aaf149ea982,6e380a4d73ab4f0e,Women's Strawweight,SUB,Submission,2,1:58,118,418,e94085e821bd81de
+2eecf0c36192e40c,c21f26bbde777573,8a65fd9ba31fd3f7,754968e325d6f60d,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,2,2:37,157,457,c21f26bbde777573
+58080e8989927500,cb696ebfb6598724,def8166ff24bd237,754968e325d6f60d,Catch Weight,U-DEC,Unanimous Decision,5,5:00,300,1500,cb696ebfb6598724
+5538d15c4eeac3b3,f14cf73e51b29254,fc08099550072fe4,754968e325d6f60d,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,f14cf73e51b29254
+ce6bd165bef82bd7,3cf18e01cb6cbde3,34b96d52db1d26e6,754968e325d6f60d,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,3cf18e01cb6cbde3
+1452c20d964c0a63,7498b3ac79a3b948,4729c93ba705a3bf,754968e325d6f60d,Welterweight,KO/TKO,Knockout or Technical Knockout,1,3:33,213,213,7498b3ac79a3b948
+0b1460c666e66d39,b2a78df161bd67f9,8c1ca54b5089d199,754968e325d6f60d,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,b2a78df161bd67f9
+1ab1ed99a4bc5494,814e5233e2acf2ee,bb2c3c3a466224af,754968e325d6f60d,Flyweight,KO/TKO,Knockout or Technical Knockout,2,4:35,275,575,814e5233e2acf2ee
+f55749e32ce5c6f3,a13d755965a4ec9f,d2cd7a69cc55e7ed,754968e325d6f60d,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,a13d755965a4ec9f
+130e622d4d2aee3e,d6c0cdd7e467c440,595db60957de51d3,754968e325d6f60d,Middleweight,KO/TKO,Knockout or Technical Knockout,1,0:43,43,43,d6c0cdd7e467c440
+f0b7caa90faf47e5,3f11fd1751fa83b1,7b3503352cd53abb,754968e325d6f60d,Featherweight,KO/TKO,Knockout or Technical Knockout,1,0:37,37,37,3f11fd1751fa83b1
+2f6065fe0804d1d8,a474aade8eb3a8f0,86bace9e4ad85542,754968e325d6f60d,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,a474aade8eb3a8f0
+7fc5f1dc2df84ac7,02f484417a6fa69d,709fadb644ee3f51,754968e325d6f60d,Light Heavyweight,SUB,Submission,1,2:45,165,165,02f484417a6fa69d
+12cedec11b37ddc0,767755fd74662dbf,0d7b51c9d2649a6e,421ccfc6ddb17958,Middleweight,U-DEC,Unanimous Decision,5,5:00,300,1500,767755fd74662dbf
+9fa6a029f7f8241c,396fe87b84ac2e1c,5537efc6e496dd84,421ccfc6ddb17958,Featherweight,KO/TKO,Knockout or Technical Knockout,1,3:21,201,201,396fe87b84ac2e1c
+42585ce706c086de,7ee0fd831c0fe7c3,b997be68943010fc,421ccfc6ddb17958,Welterweight,KO/TKO,Knockout or Technical Knockout,1,4:59,299,299,7ee0fd831c0fe7c3
+9939d7073462e07e,a67d071163962af8,13a0275fa13c4d26,421ccfc6ddb17958,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,a67d071163962af8
+82338ba457fbe87f,c96d9178c9ed9e62,d33da8a3d82bdb62,421ccfc6ddb17958,Flyweight,SUB,Submission,2,4:39,279,579,c96d9178c9ed9e62
+5efd13a12be06706,d1feea7a4bdcd503,64b12fe31be7560c,421ccfc6ddb17958,Middleweight,SUB,Submission,2,2:01,121,421,d1feea7a4bdcd503
+5b880d10b0ed7acc,0d65c432720accb9,6ac9bc2953c47345,421ccfc6ddb17958,Middleweight,KO/TKO,Knockout or Technical Knockout,1,3:03,183,183,0d65c432720accb9
+a2eafd9e1d5031b1,8e5d953bdb9ae5e7,6a1901c62ab3870f,421ccfc6ddb17958,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,8e5d953bdb9ae5e7
+1d8dc0fb5d47357f,262a7d06203657e6,971246648e162f0d,421ccfc6ddb17958,Lightweight,KO/TKO,Knockout or Technical Knockout,1,4:58,298,298,262a7d06203657e6
+bc63f1b2e52f603e,7cbf7c78d3b34218,64a50dad704d1d49,421ccfc6ddb17958,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,7cbf7c78d3b34218
+88020d22cf905792,9d62c2d8ee151f08,27b388f0aab49780,421ccfc6ddb17958,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,9d62c2d8ee151f08
+68c423c7119004f3,2fe9032955c2e013,30cad5a751adcb48,421ccfc6ddb17958,Flyweight,SUB,Submission,2,3:04,184,484,2fe9032955c2e013
+68fe62bac7fd8bb0,093e1f5bb73850be,327d5f279895110d,6cd3dfc54f01287f,Middleweight,SUB,Submission,4,2:45,165,1065,093e1f5bb73850be
+37d58369782cb86b,32ab52e5de93092d,6d68c1afe954f121,6cd3dfc54f01287f,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,32ab52e5de93092d
+646c79a7ecd12e5f,abcf2cc6efc42031,f0feeb2192937424,6cd3dfc54f01287f,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,abcf2cc6efc42031
+98d6771af9b0ebe5,8fd808923cffff82,5ec591b78349ba7e,6cd3dfc54f01287f,Featherweight,S-DEC,Split Decision,3,5:00,300,900,8fd808923cffff82
+ed5383b50ffcdded,ffd3224638c01b57,46e0d677f91bacc0,6cd3dfc54f01287f,Bantamweight,S-DEC,Split Decision,3,5:00,300,900,ffd3224638c01b57
+75a84211f50c53f5,a93f94c923c3a9cb,cad24459b28592ca,6cd3dfc54f01287f,Middleweight,KO/TKO,Knockout or Technical Knockout,1,3:53,233,233,a93f94c923c3a9cb
+3d6571790c21527c,6add18754930182b,09a4447655fd4b7b,6cd3dfc54f01287f,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,6add18754930182b
+ae7a8f19743e8154,7478b7f959ba61f5,148bb103cfbf123e,6cd3dfc54f01287f,Bantamweight,KO/TKO,Knockout or Technical Knockout,1,4:10,250,250,7478b7f959ba61f5
+aef44145740741b3,f9ab66e67240db7b,b1e5bcaad32a3cac,6cd3dfc54f01287f,Women's Bantamweight,KO/TKO,Knockout or Technical Knockout,1,2:24,144,144,f9ab66e67240db7b
+7d923267c44dd93b,681399317dbf4701,b12fb759e02378de,6cd3dfc54f01287f,Welterweight,KO/TKO,Knockout or Technical Knockout,1,1:03,63,63,681399317dbf4701
+6ef50ed03b116b60,a6eb54ae17a551be,a78a87d8c2bbb1cb,6cd3dfc54f01287f,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,a6eb54ae17a551be
+857e8facd8ff7c36,9508cc6184cb2450,f14f644d41ade29f,6cd3dfc54f01287f,Light Heavyweight,S-DEC,Split Decision,3,5:00,300,900,9508cc6184cb2450
+282c8c6c1ed82bfb,4461d7e47375a895,b671bdf981ad527d,f2c934689243fe4e,Flyweight,SUB,Submission,2,1:06,66,366,4461d7e47375a895
+426a69e343822ab3,fd406a32a6fb3a29,849c5d9979df5357,f2c934689243fe4e,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,fd406a32a6fb3a29
+878941394f9e3538,323d4ca260dfa0ba,48a9a128784d53d1,f2c934689243fe4e,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,323d4ca260dfa0ba
+c62ed8a6002b5360,351c4ec637380ad5,f2b3f4ef3f780168,f2c934689243fe4e,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,351c4ec637380ad5
+ac57250e3de89d5d,84b3e7d38f2d2ec5,8adcbd525fab8d9b,f2c934689243fe4e,Welterweight,KO/TKO,Knockout or Technical Knockout,2,4:39,279,579,84b3e7d38f2d2ec5
+111e66eb922449e4,239d8e5359022f3b,d964a59c48381cb6,f2c934689243fe4e,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,239d8e5359022f3b
+eeeffa7f514e0c0e,d8c811df0386d5e8,a2d342ffc83913ed,f2c934689243fe4e,Bantamweight,KO/TKO,Knockout or Technical Knockout,1,1:02,62,62,d8c811df0386d5e8
+45781930d64da456,260e9e0d4954aea6,147e70aa6cc48cfc,f2c934689243fe4e,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,260e9e0d4954aea6
+b3c695728e177fd4,22e07d3da1aa3475,7eaa5e31c2dd86aa,f2c934689243fe4e,Middleweight,KO/TKO,Knockout or Technical Knockout,2,1:31,91,391,22e07d3da1aa3475
+07c2af68b6dbc4ec,d3f89fa685bd8420,450bcab0968562c4,f2c934689243fe4e,Featherweight,SUB,Submission,1,3:39,219,219,d3f89fa685bd8420
+b47db03affb279c3,83455a9d17f57dae,53c10176e3bc7416,f2c934689243fe4e,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,83455a9d17f57dae
+d98d6b2c13557a87,e375cb5caf4717b6,8bd4200561c77a62,f2c934689243fe4e,Women's Strawweight,S-DEC,Split Decision,3,5:00,300,900,e375cb5caf4717b6
+6b8be0ee3e569ad2,d549cefc7c54ab78,e1147d3d2dabe1ce,28d8638ea0a71908,Middleweight,S-DEC,Split Decision,5,5:00,300,1500,d549cefc7c54ab78
+d4d4ee045b0ca695,d661ce4da776fc20,c0ac37a4a1133da9,28d8638ea0a71908,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,d661ce4da776fc20
+582d66ce97309e29,06734ca9d88dec3a,8e9eb3fc86db0f7d,28d8638ea0a71908,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,06734ca9d88dec3a
+887c61da1a78a5e1,8d3273573b85be09,88be62d6c1e6dadb,28d8638ea0a71908,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,8d3273573b85be09
+77f960d82cda0b76,ef5dcb10d2bd4b0f,1091d4d957141094,28d8638ea0a71908,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,4:18,258,258,ef5dcb10d2bd4b0f
+e72c691b7c68b03a,d9c6f19f958643e9,0fd5f4b838e890cc,28d8638ea0a71908,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,d9c6f19f958643e9
+7c075e3383198e14,447f9858ae78f921,28d421729451c8ca,28d8638ea0a71908,Welterweight,KO/TKO,Knockout or Technical Knockout,1,0:42,42,42,447f9858ae78f921
+017a825c7820d12e,113df4fde64735c6,da22387a0407a2dc,28d8638ea0a71908,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,113df4fde64735c6
+3e6067763978d862,d25240135aee03e5,beecb672a279223e,28d8638ea0a71908,Women's Strawweight,KO/TKO,Knockout or Technical Knockout,2,2:59,179,479,d25240135aee03e5
+f9dac7702609669f,07a74004d964c7f4,6e8f1bcdda94ff45,28d8638ea0a71908,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,07a74004d964c7f4
+23ddf51ce630028d,69037fc7730e4225,3753714927f18437,28d8638ea0a71908,Featherweight,KO/TKO,Knockout or Technical Knockout,2,5:00,300,600,69037fc7730e4225
+0a598768f5c8d540,8eb046f83e82bf26,095854a135e6db55,28d8638ea0a71908,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,8eb046f83e82bf26
+d7507e2741fd4d05,150ff4cc642270b9,029eaff01e6bb8f0,b8e2f10efb6eca85,Lightweight,U-DEC,Unanimous Decision,5,5:00,300,1500,150ff4cc642270b9
+23c963be9de38205,2e5c2aa8e4ab9d82,9d83f6da776ff7d6,b8e2f10efb6eca85,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,2e5c2aa8e4ab9d82
+5dde61734080ac4a,8a1f3b5c526cd6e6,3a46b268013afede,b8e2f10efb6eca85,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,8a1f3b5c526cd6e6
+acc961fd5cf5c62e,98a58c26c5b1ed17,82a5152216251682,b8e2f10efb6eca85,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,98a58c26c5b1ed17
+a95b03e9b5a91e47,511e82663651438d,4148802ae4a50768,b8e2f10efb6eca85,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,511e82663651438d
+d2cb92fdf6a497e9,18d01f7f8338ae72,60425d07ef4b91a7,b8e2f10efb6eca85,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,18d01f7f8338ae72
+8e1feda9141602f1,2f181c0467965b98,7acbb0972e75281a,b8e2f10efb6eca85,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,2f181c0467965b98
+df2ed8b509fbdbdc,0f1efce7d2571d10,3920d0cc288f9b0d,b8e2f10efb6eca85,Welterweight,S-DEC,Split Decision,3,5:00,300,900,0f1efce7d2571d10
+72e477b41f44e358,2f815ed5f8278ba6,0cd0456d6029cec2,b8e2f10efb6eca85,Middleweight,KO/TKO,Knockout or Technical Knockout,1,1:10,70,70,2f815ed5f8278ba6
+37bc72d5d211b189,e803242fb2e41112,a01a62132460a98d,b8e2f10efb6eca85,Welterweight,KO/TKO,Knockout or Technical Knockout,1,4:06,246,246,e803242fb2e41112
+798652dbea086910,70e1f8a821b72c8b,6370c1c1e12723d5,b8e2f10efb6eca85,Light Heavyweight,SUB,Submission,1,4:42,282,282,70e1f8a821b72c8b
+182ee320edb1b5ed,a67f5afa8d6a1b80,0c25d0a5e8cdbf19,b8e2f10efb6eca85,Heavyweight,SUB,Submission,1,2:47,167,167,a67f5afa8d6a1b80
+74099d470e8d2765,1e719d4b676dc19a,3eeec2f53cebdf12,b8e2f10efb6eca85,Middleweight,SUB,Submission,1,3:35,215,215,1e719d4b676dc19a
+a602c68147b752b2,f1ab6f37492c630a,fc0a4053eb8a3a59,b8e2f10efb6eca85,Women's Flyweight,KO/TKO,Knockout or Technical Knockout,3,1:30,90,690,f1ab6f37492c630a
+0adfc21045c02555,d3df1add9d9a7efb,17923f676f100e16,7b03d9df5910917d,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,0:35,35,35,d3df1add9d9a7efb
+2a03bc4c491b4c9a,01641ba5df0c69b0,4a28cb716c19157a,7b03d9df5910917d,Welterweight,S-DEC,Split Decision,3,5:00,300,900,01641ba5df0c69b0
+f368475c366c6d85,97cf1a2c7c5e7889,751de04455cfaac0,7b03d9df5910917d,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,97cf1a2c7c5e7889
+4e5d4a36eaaa3a78,5b03b61f9d90125e,583ee11abddfc581,7b03d9df5910917d,Featherweight,KO/TKO,Knockout or Technical Knockout,3,0:27,27,627,5b03b61f9d90125e
+4b75d3b7738cb278,71171fc96445bf65,be9bdec19b7e9ffe,7b03d9df5910917d,Heavyweight,SUB,Submission,1,4:16,256,256,71171fc96445bf65
+b19bf99c7eb796bc,3e8118c1ab52f211,c15fa95b9a12fde4,7b03d9df5910917d,Light Heavyweight,SUB,Submission,2,4:25,265,565,3e8118c1ab52f211
+236f811290163dca,5442f1bc4b47eaf3,b0d6a1d8ac3d563d,7b03d9df5910917d,Welterweight,S-DEC,Split Decision,3,5:00,300,900,5442f1bc4b47eaf3
+d5e3be7a07c48b08,a845f0735bc67405,c68c68efaa5ca6ef,7b03d9df5910917d,Welterweight,SUB,Submission,1,1:09,69,69,a845f0735bc67405
+46bc1338a50cbeac,de594b35c45c2e9a,729d4bd5a6cd0a97,7b03d9df5910917d,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,de594b35c45c2e9a
+5c650ae2193ab1bc,f5779a2303ed76ec,8667caa0451d245b,7b03d9df5910917d,Heavyweight,SUB,Submission,1,0:54,54,54,f5779a2303ed76ec
+7f33fbdc35afd721,fb3e61720be4690c,e99eb0ef25885de5,7b03d9df5910917d,Lightweight,KO/TKO,Knockout or Technical Knockout,2,4:08,248,548,fb3e61720be4690c
+120d66cb0da0f3c3,745fa7b605f8e2da,3f4c3bc822bea45d,7b03d9df5910917d,Women's Strawweight,KO/TKO,Knockout or Technical Knockout,3,2:36,156,756,745fa7b605f8e2da
+7a64d63e12618ba7,54f64b5e283b0ce7,07225ba28ae309b6,66766984842c13dc,Lightweight,KO/TKO,Knockout or Technical Knockout,1,2:27,147,147,54f64b5e283b0ce7
+8308464729ea7c40,a0f0004aadf10b71,853eb0dd5c0e2149,66766984842c13dc,Flyweight,SUB,Submission,3,1:55,115,715,a0f0004aadf10b71
+f722b96ae6862843,17e97649403ba428,6e15f63b6c2e2c15,66766984842c13dc,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,17e97649403ba428
+1ea9ad3b6e1cba79,08af939f41b5a57b,b6452706b373eea1,66766984842c13dc,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,08af939f41b5a57b
+f6a3c78f15ff26c7,6e743a33d56bdaa4,9256f591b30c073e,66766984842c13dc,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,6e743a33d56bdaa4
+958522de54ccc536,d1c65d2cf2925ddd,0a1942069c9ad6b6,66766984842c13dc,Middleweight,KO/TKO,Knockout or Technical Knockout,1,4:21,261,261,d1c65d2cf2925ddd
+2f523b757f7f33a2,7d6ceff6747f2de2,41cc71cbf210e0fe,66766984842c13dc,Featherweight,KO/TKO,Knockout or Technical Knockout,1,0:26,26,26,7d6ceff6747f2de2
+815ff62ca8e217be,68d4a891e5cf2029,36541f1e6c5d4955,66766984842c13dc,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,68d4a891e5cf2029
+d7be78c400e7e0f9,809bd1a871491508,19c591115a58982c,66766984842c13dc,Lightweight,SUB,Submission,1,0:55,55,55,809bd1a871491508
+9bff9fe298e63357,85497ffd934ecf7e,d8da10db80131bec,66766984842c13dc,Welterweight,SUB,Submission,2,4:03,243,543,85497ffd934ecf7e
+043172689e415438,25f9a5f3e8a52618,ab2a4b5e04dc5fe9,66766984842c13dc,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,25f9a5f3e8a52618
+03bc32bdb5a33496,749f572d1d3161fb,5444c5a201d3ee5a,400c7b43c86d27d3,Light Heavyweight,U-DEC,Unanimous Decision,5,5:00,300,1500,749f572d1d3161fb
+a1afc16e21d1a807,c814b4c899793af6,e4a47b07044ddd72,400c7b43c86d27d3,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,c814b4c899793af6
+8e5744c664fec3e9,fa6796c55d6c5440,739fd4fbb5d862f4,400c7b43c86d27d3,Heavyweight,S-DEC,Split Decision,3,5:00,300,900,fa6796c55d6c5440
+36ec204f47e4d613,bf2c8e01b07d3eb1,ae81a3ac7b260411,400c7b43c86d27d3,Catch Weight,SUB,Submission,1,4:35,275,275,bf2c8e01b07d3eb1
+7513a00037094075,ff62013d2fce6d13,37f560436d745c18,400c7b43c86d27d3,Lightweight,KO/TKO,Knockout or Technical Knockout,2,4:17,257,557,ff62013d2fce6d13
+19764211af05674c,8d11d9c13e2ccdf7,fb37795db81f93f3,400c7b43c86d27d3,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,8d11d9c13e2ccdf7
+e512b80bbaea36c2,4a07b1988477502c,6b56e94a59b7b134,400c7b43c86d27d3,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,4a07b1988477502c
+5fcf18bcd2a020f1,285ae0b4a68221f4,6a96ad1bc34fb113,400c7b43c86d27d3,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,285ae0b4a68221f4
+fff3218758c513b8,07047eb7d17fb0a2,bd532e9a2b93870c,400c7b43c86d27d3,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,07047eb7d17fb0a2
+2bfc0212f2cae65b,9f5e3c20ce40b344,103e2e33a60683e1,400c7b43c86d27d3,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,9f5e3c20ce40b344
+8c140756bf43dcc2,f00ac08ab056af5d,7f1bf0c255ec8756,400c7b43c86d27d3,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,f00ac08ab056af5d
+a12d3a6c8aaf87ca,da7f113b5ea39c43,3329d692aea4dc28,400c7b43c86d27d3,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,da7f113b5ea39c43
+d75b3d3c2b209b75,f1b2aa7853d1ed6e,b9437600497350f3,de277a4abcfeea46,Welterweight,U-DEC,Unanimous Decision,5,5:00,300,1500,f1b2aa7853d1ed6e
+79dfbbdd14fbbd11,47b63240018d5d86,f29a6350c69f4a33,de277a4abcfeea46,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,47b63240018d5d86
+e5bd7e6e2a50a843,4144798612ef96e5,5f61780fe5e9b6d0,de277a4abcfeea46,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,4144798612ef96e5
+1714950933f88ab9,b9f28e7045fdfce7,d8c7c61b176e3994,de277a4abcfeea46,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,b9f28e7045fdfce7
+08c04f18b0f58d71,841695e02c99a521,f14f644d41ade29f,de277a4abcfeea46,Middleweight,Overturned,Other,3,0:36,36,636,DRAW
+ec2034b134ae71cd,a495f599e787614f,46e2011d92463b7e,de277a4abcfeea46,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,a495f599e787614f
+13e2ff8b3a122094,eabf206b162b3b83,69898645d600abdb,de277a4abcfeea46,Light Heavyweight,CNC,Cancelled,1,4:59,299,299,DRAW
+e861e9cc0118c670,c58f51dedb310998,523fa774700d7d3f,de277a4abcfeea46,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,c58f51dedb310998
+f6454f2e508626ec,2e45d08b3f2f02c8,9c27f3217891f3f0,de277a4abcfeea46,Bantamweight,KO/TKO,Knockout or Technical Knockout,1,2:37,157,157,2e45d08b3f2f02c8
+b39b8ff0d7de211a,88be62d6c1e6dadb,7f6ed67d3ed3c036,de277a4abcfeea46,Flyweight,KO/TKO,Knockout or Technical Knockout,2,0:11,11,311,88be62d6c1e6dadb
+59c4fdb3c0673066,5987b2458f4b5290,5c84f673b7bb7c15,de277a4abcfeea46,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,5987b2458f4b5290
+2ae7404681deb3b3,8e382b585a92affe,1497e735d9f2560a,de277a4abcfeea46,Welterweight,KO/TKO,Knockout or Technical Knockout,3,4:03,243,843,8e382b585a92affe
+ab325ea526824723,5c637af9472ae7cc,2c483cf443f38ece,de277a4abcfeea46,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,5c637af9472ae7cc
+e61d83e4e1f9c4d7,c03520b5c88ed6b4,b50a426a33da0012,18c49685296c60e6,Bantamweight,SUB,Submission,3,4:42,282,882,c03520b5c88ed6b4
+81b84b34f0357fa5,1af1170ed937cba7,3253b16d38ae087d,18c49685296c60e6,Women's Bantamweight,SUB,Submission,2,4:55,295,595,1af1170ed937cba7
+e28e829800466aca,c1085e1701b13eca,8c0580d4fff106c1,18c49685296c60e6,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,c1085e1701b13eca
+df5dac45fc585fb0,bc711b6dd95c1af6,2cfba6c837c03ed0,18c49685296c60e6,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,bc711b6dd95c1af6
+2129acab2280bd29,3a46b268013afede,6d4b63c767106d3a,18c49685296c60e6,Welterweight,SUB,Submission,2,1:03,63,363,3a46b268013afede
+b6a87389bdc36a00,17e97649403ba428,294aa73dbf37d281,18c49685296c60e6,Flyweight,KO/TKO,Knockout or Technical Knockout,3,4:01,241,841,17e97649403ba428
+01100a90b584215d,e90a2f22417af68e,49edd0d90f60fb7d,18c49685296c60e6,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,3:25,205,205,e90a2f22417af68e
+ac977a0389682124,fc08099550072fe4,e2f6b2769aaedd6c,18c49685296c60e6,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,fc08099550072fe4
+f0488a4486a64af0,2caf993f53541fa1,2558ae2e5671e318,18c49685296c60e6,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,2caf993f53541fa1
+d078e9046aa86307,2997e7fe3c9d3d4a,6551c64fbcd1a467,18c49685296c60e6,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,2997e7fe3c9d3d4a
+9f4a0de31375ba04,a44020ea2e8cd026,57186c150c645200,18c49685296c60e6,Featherweight,KO/TKO,Knockout or Technical Knockout,1,0:28,28,28,a44020ea2e8cd026
+2e4064e0e6d4d92e,17734443a833cdf7,c739c2995a275314,18c49685296c60e6,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,17734443a833cdf7
+0e8599eca8ccfa32,e2be0c1a9b886d92,001eb2ab0f30e7ea,18c49685296c60e6,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,e2be0c1a9b886d92
+212527d462690304,72db2a14ffa73ece,5b86d491d63890c5,2a898bf9fb7710b3,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,72db2a14ffa73ece
+305d8c85b35a7d4e,3d074044a33825e7,fa07345cc9db5cc9,2a898bf9fb7710b3,Welterweight,SUB,Submission,1,3:16,196,196,3d074044a33825e7
+7aaa810540132a4b,e4277e87a789d687,0abcf6bc47191219,2a898bf9fb7710b3,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,1:50,110,110,e4277e87a789d687
+106918bfbe24335d,b9706f80d005036c,9cdd2da1a9104a0b,2a898bf9fb7710b3,Women's Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,b9706f80d005036c
+ad68450307a21ab1,23dec7c47cb418f8,866fd7b1a6c90e7f,2a898bf9fb7710b3,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,23dec7c47cb418f8
+baa2ee0bf7f97079,253076a23d03dcd0,65adf3856c4d9256,2a898bf9fb7710b3,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,253076a23d03dcd0
+2521fed000747f47,ac026518a9b4dc0f,a7151778b3381036,2a898bf9fb7710b3,Lightweight,SUB,Submission,1,1:39,99,99,ac026518a9b4dc0f
+ae89ba793121fe0c,4bdedbdeedff7d1d,01c9e4013afce141,2a898bf9fb7710b3,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,4bdedbdeedff7d1d
+73240bea13ed5e71,87f8699fdcc2c404,02bb48869eb7ac8f,2a898bf9fb7710b3,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,87f8699fdcc2c404
+a81ad236a2f221f2,c32aeb1a59e6272d,23024fdfc966410a,8ad022dd81224f61,Welterweight,KO/TKO,Knockout or Technical Knockout,1,3:39,219,219,c32aeb1a59e6272d
+dcb27eef6441268c,480779d7f9a424d3,94426bb170c88115,8ad022dd81224f61,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,480779d7f9a424d3
+b3044bf646306e7f,49d2a08964c5eb11,71505842fb6455c3,8ad022dd81224f61,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,49d2a08964c5eb11
+fe2acfdaaaec3dba,20bccc9bb4ceb23e,902ec2cc48c8ae8a,8ad022dd81224f61,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,20bccc9bb4ceb23e
+a9a6cca4bbf7a5db,5eb50529a8418b77,72f890c5d421e705,8ad022dd81224f61,Lightweight,SUB,Submission,2,3:43,223,523,5eb50529a8418b77
+8ba31cf0b3164b72,7026eca45f65377b,d945aae53e3e54e6,8ad022dd81224f61,Lightweight,KO/TKO,Knockout or Technical Knockout,1,3:37,217,217,7026eca45f65377b
+d6e2bc6e6c0cc4fe,70380ccdc81915b8,36e78278a77006d4,8ad022dd81224f61,Featherweight,SUB,Submission,1,2:54,174,174,70380ccdc81915b8
+f75fe8b384b0db11,5078e1dacf9d25f4,2c5f5749569eef66,8ad022dd81224f61,Women's Bantamweight,SUB,Submission,2,4:59,299,599,5078e1dacf9d25f4
+66887532be2de5ee,cffb87059e645bd1,ac7c765882f2c68c,8ad022dd81224f61,Women's Strawweight,KO/TKO,Knockout or Technical Knockout,2,0:30,30,330,cffb87059e645bd1
+18a7dc86279066f8,b671bdf981ad527d,798e48f9e7f6ba22,8ad022dd81224f61,Flyweight,SUB,Submission,1,2:26,146,146,b671bdf981ad527d
+afdd95ae7b7cdb0c,31ef8b67e13495b3,a3a542074109b347,8ad022dd81224f61,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,31ef8b67e13495b3
+b873c116e39c9920,6b453bc35a823c3f,b1b0729d27936f2f,118463dd8db16e7f,Welterweight,U-DEC,Unanimous Decision,5,5:00,300,1500,6b453bc35a823c3f
+9e9d1764a015f313,132deb59abae64b1,34ff304266360297,118463dd8db16e7f,Women's Flyweight,U-DEC,Unanimous Decision,5,5:00,300,1500,132deb59abae64b1
+891b2faf1bff38ee,24656ef4d605c96f,d0f3959b4a9747e6,118463dd8db16e7f,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,24656ef4d605c96f
+0f53eb509d0ffeb9,262d32ebda89efc4,e8b731feff72294b,118463dd8db16e7f,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,262d32ebda89efc4
+c7190cd03e53fb61,c2299ec916bc7c56,873626e5547b5235,118463dd8db16e7f,Lightweight,SUB,Submission,2,2:35,155,455,c2299ec916bc7c56
+2521234a4bf7c615,dd6103dd7127db1d,feedf3053472fe56,118463dd8db16e7f,Welterweight,KO/TKO,Knockout or Technical Knockout,2,0:26,26,326,dd6103dd7127db1d
+4db2d86ebe8c8abd,a9e260472d321361,6a1901c62ab3870f,118463dd8db16e7f,Women's Flyweight,SUB,Submission,1,2:40,160,160,a9e260472d321361
+c812457a810dde39,476fe566d2df676e,cd13728ae1151f46,118463dd8db16e7f,Light Heavyweight,S-DEC,Split Decision,3,5:00,300,900,476fe566d2df676e
+99aa1f28e22bb6dd,b4b496ec2197ee3e,64ad3e3b0efa30bb,118463dd8db16e7f,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,b4b496ec2197ee3e
+6ecfa439ef900bcc,8e9eb3fc86db0f7d,12ebd7d157e91701,118463dd8db16e7f,Middleweight,KO/TKO,Knockout or Technical Knockout,1,1:27,87,87,8e9eb3fc86db0f7d
+0e0a4282cd6c86d7,b67d6bacc68d4c92,d008d785f6347dc2,118463dd8db16e7f,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,b67d6bacc68d4c92
+c20bd12ae7f04eff,a4dc0f2b95df4cc1,7b433309b0fd12aa,118463dd8db16e7f,Bantamweight,KO/TKO,Knockout or Technical Knockout,1,1:04,64,64,a4dc0f2b95df4cc1
+9b3bade95e1dd484,65f09bacd3957381,aa72b0f831d0bfe5,de20ffb3fc2e7629,Bantamweight,KO/TKO,Knockout or Technical Knockout,2,4:08,248,548,65f09bacd3957381
+380242601a2c5991,d549cefc7c54ab78,35673bf5204524ee,de20ffb3fc2e7629,Middleweight,KO/TKO,Knockout or Technical Knockout,2,1:53,113,413,d549cefc7c54ab78
+191ee545160a4e09,8a1f3b5c526cd6e6,6d1bffff14897645,de20ffb3fc2e7629,Welterweight,KO/TKO,Knockout or Technical Knockout,3,1:12,72,672,8a1f3b5c526cd6e6
+5ce29056e0cd2df9,cc1a8b4b38b92c6d,850266b3dc4e506e,de20ffb3fc2e7629,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,cc1a8b4b38b92c6d
+6ccd10adc968e1f0,1a2bf44edb8055b6,5c84f673b7bb7c15,de20ffb3fc2e7629,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,1a2bf44edb8055b6
+9039959b41901412,f6ad6a1e4d600e0d,18968f97ad34f15c,de20ffb3fc2e7629,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,f6ad6a1e4d600e0d
+2707dc2245335cc1,3143bf892608139a,b96619b3acd7d9da,de20ffb3fc2e7629,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,3143bf892608139a
+77ed474dfc5359ea,3bc3f60b21cddc6a,d5bab53a1a603aac,de20ffb3fc2e7629,Middleweight,KO/TKO,Knockout or Technical Knockout,1,2:44,164,164,3bc3f60b21cddc6a
+6e26a6293ea6ba62,38c7f72747f4f712,cd2c4d30c6e13b47,de20ffb3fc2e7629,Women's Strawweight,KO/TKO,Knockout or Technical Knockout,2,2:07,127,427,38c7f72747f4f712
+97b32ff27fd457a8,32feae6d9a1e5047,96924b0019b3aff1,de20ffb3fc2e7629,Bantamweight,SUB,Submission,2,1:54,114,414,32feae6d9a1e5047
+c445401709421fa4,764d39074a352e33,1a9480fc288e55d7,de20ffb3fc2e7629,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,764d39074a352e33
+469f887278324e63,aa0c573da7119292,38c5817ade8a8014,de20ffb3fc2e7629,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,aa0c573da7119292
+633f4b5ec767769d,442c9011034ae1fd,7ee0fd831c0fe7c3,b2e3aca4cd363477,Welterweight,U-DEC,Unanimous Decision,5,5:00,300,1500,442c9011034ae1fd
+a526a72ade275f46,8a65fd9ba31fd3f7,d4c9dcd330403612,b2e3aca4cd363477,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,4:03,243,243,8a65fd9ba31fd3f7
+4072abf0b0c179f2,ffe9703408fb5964,9560ff14eb3129f7,b2e3aca4cd363477,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,ffe9703408fb5964
+9bbd45774fb4a6eb,36b8f265bcd1b7a4,595db60957de51d3,b2e3aca4cd363477,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,36b8f265bcd1b7a4
+fbf83609dc96f32e,c6aee362c7a7d482,9d19d9e4aa2662e8,b2e3aca4cd363477,Welterweight,KO/TKO,Knockout or Technical Knockout,2,1:39,99,399,c6aee362c7a7d482
+62fbdd4f0bcd3c2a,b07aed698fba8624,886264a0c9f4ea5e,b2e3aca4cd363477,Middleweight,KO/TKO,Knockout or Technical Knockout,1,4:54,294,294,b07aed698fba8624
+d8d22dcc1f6912e7,67c1d46f4ed16f9e,09e62c450e754913,b2e3aca4cd363477,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,67c1d46f4ed16f9e
+97770b38df67b276,d9a56ecb6e94f02e,b2a78df161bd67f9,b2e3aca4cd363477,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,d9a56ecb6e94f02e
+6f3cb7ce84185dd3,45f0cc9d18f35137,5fa2974cbd18e05c,b2e3aca4cd363477,Featherweight,S-DEC,Split Decision,3,5:00,300,900,45f0cc9d18f35137
+7d51649373d42571,da22387a0407a2dc,1897b7b913736a7c,b2e3aca4cd363477,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,da22387a0407a2dc
+c2c20a04a78d9143,2e45d08b3f2f02c8,3c8a5200436e19f3,b2e3aca4cd363477,Bantamweight,KO/TKO,Knockout or Technical Knockout,1,1:59,119,119,2e45d08b3f2f02c8
+e7b3ca036835b7c2,bc7d1ad49fcb2d08,9673a497a9da119a,b2e3aca4cd363477,Women's Strawweight,SUB,Submission,2,1:49,109,409,bc7d1ad49fcb2d08
+23201d09a78d446d,0e46690e55a8df75,15ea371202eb25e1,b2e3aca4cd363477,Featherweight,KO/TKO,Knockout or Technical Knockout,2,3:55,235,535,0e46690e55a8df75
+7fd6770fe2d4f258,f9ab66e67240db7b,af9efbfd63d39734,b2e3aca4cd363477,Women's Bantamweight,KO/TKO,Knockout or Technical Knockout,1,2:31,151,151,f9ab66e67240db7b
+e733f148060bef2a,e1248941344b3288,f166e93d04a8c274,22f4b6cb6b1bd7fd,Featherweight,U-DEC,Unanimous Decision,5,5:00,300,1500,e1248941344b3288
+d05cb4c4135ce402,7826923b47f8d72a,4b93a88f3b1de35b,22f4b6cb6b1bd7fd,Lightweight,KO/TKO,Knockout or Technical Knockout,3,3:07,187,787,7826923b47f8d72a
+d3be5a4e0ec273e2,cbf5e6f231b55443,98a58c26c5b1ed17,22f4b6cb6b1bd7fd,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,cbf5e6f231b55443
+8c540eb4afe8c43e,52ef95b5860fb28c,d9c6f19f958643e9,22f4b6cb6b1bd7fd,Featherweight,SUB,Submission,2,3:52,232,532,52ef95b5860fb28c
+b2d731415bd367df,2e19380f34871c6a,1091d4d957141094,22f4b6cb6b1bd7fd,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,2:24,144,144,2e19380f34871c6a
+fc43d60cbd6b0e6a,82a5152216251682,4682bc59d5f55145,22f4b6cb6b1bd7fd,Featherweight,KO/TKO,Knockout or Technical Knockout,3,1:12,72,672,82a5152216251682
+0eccebee160137b1,7dda2cf308f24a02,c41d426cc7326d1b,22f4b6cb6b1bd7fd,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,7dda2cf308f24a02
+11eb27a1ac74d225,971246648e162f0d,d1941565abf50b16,22f4b6cb6b1bd7fd,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,971246648e162f0d
+08e7a39eb7482ebf,902ec2cc48c8ae8a,92a9aa9c93192871,22f4b6cb6b1bd7fd,Featherweight,KO/TKO,Knockout or Technical Knockout,1,4:15,255,255,902ec2cc48c8ae8a
+4bbda6c1f6cf9d4e,0d65c432720accb9,4e6738062d469256,22f4b6cb6b1bd7fd,Middleweight,KO/TKO,Knockout or Technical Knockout,1,2:49,169,169,0d65c432720accb9
+fd98843926965cbd,3cf18e01cb6cbde3,0be6776db31d98ec,22f4b6cb6b1bd7fd,Flyweight,S-DEC,Split Decision,3,5:00,300,900,3cf18e01cb6cbde3
+b87d6f71d901355b,9384e71bca6c409d,147e70aa6cc48cfc,22f4b6cb6b1bd7fd,Middleweight,KO/TKO,Knockout or Technical Knockout,2,3:16,196,496,9384e71bca6c409d
+0e71e69359db4d1e,f2b3f4ef3f780168,3c26c420584d912d,22f4b6cb6b1bd7fd,Women's Bantamweight,SUB,Submission,2,1:52,112,412,f2b3f4ef3f780168
+86a1be10255eea4e,396fe87b84ac2e1c,fba03cd6cc28dc41,86b30a86664cb6e4,Featherweight,U-DEC,Unanimous Decision,5,5:00,300,1500,396fe87b84ac2e1c
+a160e94fdb66de17,b8bbdeff718dbb7d,791c8437b341fba5,86b30a86664cb6e4,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,b8bbdeff718dbb7d
+fc3825dd1b67e39d,117a06469813e4ef,8173f134396cb971,86b30a86664cb6e4,Bantamweight,KO/TKO,Knockout or Technical Knockout,2,3:48,228,528,117a06469813e4ef
+0c80eef2f4570543,0c6d9ea8306c029e,6ac9bc2953c47345,86b30a86664cb6e4,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,0c6d9ea8306c029e
+de9422207df2de64,6d68c1afe954f121,29162be25ebef5f0,86b30a86664cb6e4,Flyweight,KO/TKO,Knockout or Technical Knockout,2,1:54,114,414,6d68c1afe954f121
+d1368ca941c1fefc,fbb60f24af5d5a02,0cd0456d6029cec2,86b30a86664cb6e4,Middleweight,S-DEC,Split Decision,3,5:00,300,900,fbb60f24af5d5a02
+76641669c1607b7a,27b388f0aab49780,d7e40dca3ae125be,86b30a86664cb6e4,Women's Flyweight,SUB,Submission,1,4:13,253,253,27b388f0aab49780
+58811a4e36c53b89,f748267c4ab6c127,7cec3c4a5e7b6d68,86b30a86664cb6e4,Welterweight,KO/TKO,Knockout or Technical Knockout,1,5:00,300,300,f748267c4ab6c127
+fd088ce1481315a5,4e30e4250cb08b61,efc67b07eed39794,86b30a86664cb6e4,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,4e30e4250cb08b61
+4b1aec2395ebca14,eb8d8c2a95cfccb8,f7be1db194e03d7e,86b30a86664cb6e4,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,eb8d8c2a95cfccb8
+96cc199d78732d11,8eb046f83e82bf26,02f484417a6fa69d,86b30a86664cb6e4,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,8eb046f83e82bf26
+cca4d763b1c6de0a,d35298b6df168456,2c483cf443f38ece,86b30a86664cb6e4,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,d35298b6df168456
+33e301872e2b5680,792be9a24df82ed6,32ab52e5de93092d,0f7210aa8d61af8d,Flyweight,U-DEC,Unanimous Decision,5,5:00,300,1500,792be9a24df82ed6
+8fc8d66ad0074ab0,2e7878927067fdca,519e4fe37ce9ff75,0f7210aa8d61af8d,Lightweight,KO/TKO,Knockout or Technical Knockout,1,1:45,105,105,2e7878927067fdca
+ab4a91a59c01d6b6,5ef94841c4bc3f86,077e3ace32b72be9,0f7210aa8d61af8d,Flyweight,SUB,Submission,1,2:30,150,150,5ef94841c4bc3f86
+0f20c1d7c44fa5fe,fe2babf95de24fb1,37098a6e6c27fb66,0f7210aa8d61af8d,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,fe2babf95de24fb1
+55376d5c205fa844,9a97acbfd5a08bfa,72ea1984c52019b5,0f7210aa8d61af8d,Bantamweight,KO/TKO,Knockout or Technical Knockout,1,4:38,278,278,9a97acbfd5a08bfa
+5ba7dd466e30169f,34b96d52db1d26e6,f2900678e98f6d6a,0f7210aa8d61af8d,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,34b96d52db1d26e6
+64fe6e61a24dbf39,2f815ed5f8278ba6,baa9be02c3e3e038,0f7210aa8d61af8d,Middleweight,KO/TKO,Knockout or Technical Knockout,1,3:32,212,212,2f815ed5f8278ba6
+41cdbcc0f3635b8f,20bccc9bb4ceb23e,5ec591b78349ba7e,0f7210aa8d61af8d,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,20bccc9bb4ceb23e
+7efca050bc7be8ac,8e5d953bdb9ae5e7,abb68e3c7ca128f2,0f7210aa8d61af8d,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,8e5d953bdb9ae5e7
+7e3fc760b26b6ae4,e132d47bd9efbbe0,c77a953488e5607d,0f7210aa8d61af8d,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,e132d47bd9efbbe0
+e2e2537a345367d4,e00a3dee329a51f7,b909a9a9688b5284,0f7210aa8d61af8d,Featherweight,KO/TKO,Knockout or Technical Knockout,1,4:06,246,246,e00a3dee329a51f7
+9f66d450af690df5,e2be0c1a9b886d92,d2cd7a69cc55e7ed,0f7210aa8d61af8d,Lightweight,S-DEC,Split Decision,3,5:00,300,900,e2be0c1a9b886d92
+371ed8497799998e,45f7cb591c3ab00b,f1fac969a1d70b08,cc2ad11b1f9d818b,Welterweight,SUB,Submission,4,1:39,99,999,45f7cb591c3ab00b
+6d9ea9f436ed354d,9014c02eff8b3d62,99df7d0a2a08a8a8,cc2ad11b1f9d818b,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,9014c02eff8b3d62
+96c6be6b22385967,3a46b268013afede,fd55393021a8c255,cc2ad11b1f9d818b,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,3a46b268013afede
+b5b4b69bccb9ff4a,545092d13c67aa49,51018a31ddf31eb2,cc2ad11b1f9d818b,Women's Strawweight,SUB,Submission,1,4:32,272,272,545092d13c67aa49
+8e6640c007ad603d,fd406a32a6fb3a29,6d38e41efa47a72d,cc2ad11b1f9d818b,Lightweight,SUB,Submission,2,3:42,222,522,fd406a32a6fb3a29
+9779eb1aae1d4654,329e403448756217,5b03b61f9d90125e,cc2ad11b1f9d818b,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,329e403448756217
+2a1071689c3af9df,06626b6287e1ae1e,4c88a1db5a46c6a4,cc2ad11b1f9d818b,Lightweight,S-DEC,Split Decision,3,5:00,300,900,06626b6287e1ae1e
+e5a88f5c686173c4,bb2c3c3a466224af,5cdf5339728f580d,cc2ad11b1f9d818b,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,bb2c3c3a466224af
+dd229687cb62c871,c9cf753cfdf77fc2,0d5cc0170c1a7e71,cc2ad11b1f9d818b,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,c9cf753cfdf77fc2
+8af2b589d5e9c1ae,a93f94c923c3a9cb,22e07d3da1aa3475,cc2ad11b1f9d818b,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,a93f94c923c3a9cb
+a693622ad8c0d672,9c442aaf149ea982,19f8a2f6eecd92ac,cc2ad11b1f9d818b,Women's Strawweight,SUB,Submission,2,3:22,202,502,9c442aaf149ea982
+1b02588149d126bf,42ac4020cba261ad,a2d342ffc83913ed,cc2ad11b1f9d818b,Bantamweight,S-DEC,Split Decision,3,5:00,300,900,42ac4020cba261ad
+265dbd9be8caa7de,ec13c393d029297d,7772b283d288dbe2,cc2ad11b1f9d818b,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,ec13c393d029297d
+67f7163e536d62e2,327d5f279895110d,7acbb0972e75281a,39f62b833e4cf126,Middleweight,U-DEC,Unanimous Decision,5,5:00,300,1500,327d5f279895110d
+c83133ee114945ed,c68c68efaa5ca6ef,8adcbd525fab8d9b,39f62b833e4cf126,Welterweight,KO/TKO,Knockout or Technical Knockout,2,2:19,139,439,c68c68efaa5ca6ef
+d8f40b82364b6411,262a7d06203657e6,a7151778b3381036,39f62b833e4cf126,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,262a7d06203657e6
+ab1aa23060d4e87b,da22387a0407a2dc,700a674c042b7a96,39f62b833e4cf126,Bantamweight,SUB,Submission,2,4:09,249,549,da22387a0407a2dc
+e56403718205b494,49edd0d90f60fb7d,709fadb644ee3f51,39f62b833e4cf126,Light Heavyweight,SUB,Submission,2,1:28,88,388,49edd0d90f60fb7d
+36db86c39ed09997,239d8e5359022f3b,a68575214ecad140,39f62b833e4cf126,Featherweight,KO/TKO,Knockout or Technical Knockout,1,3:09,189,189,239d8e5359022f3b
+74bc22b367cca118,fc08099550072fe4,a67f5afa8d6a1b80,39f62b833e4cf126,Heavyweight,KO/TKO,Knockout or Technical Knockout,2,4:48,288,588,fc08099550072fe4
+29d9c5a3f2b78903,a474aade8eb3a8f0,d1053e55f00e53fe,39f62b833e4cf126,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,a474aade8eb3a8f0
+cb3eb07b7152366e,07f959e6596307bb,723b64c0e9a8f348,39f62b833e4cf126,Bantamweight,SUB,Submission,1,3:16,196,196,07f959e6596307bb
+5fa6543868367f4b,e94085e821bd81de,1b35af4d1529adf6,39f62b833e4cf126,Women's Strawweight,S-DEC,Split Decision,3,5:00,300,900,e94085e821bd81de
+5d8af316413ea2f7,b1f21ce050035d58,e8fe9c15d348e778,39f62b833e4cf126,Flyweight,SUB,Submission,3,3:05,185,785,b1f21ce050035d58
+1c62a7444808d97f,b1e5bcaad32a3cac,68d35296f566792b,39f62b833e4cf126,Women's Bantamweight,KO/TKO,Knockout or Technical Knockout,1,2:46,166,166,b1e5bcaad32a3cac
+a8f8245096eaf0cd,f1ab6f37492c630a,c3d2b9bcb4cead6b,39f62b833e4cf126,Women's Flyweight,KO/TKO,Knockout or Technical Knockout,1,1:40,100,100,f1ab6f37492c630a
+9e05fe95a4fc63bc,d802174b0c0c1f4e,e5549c82bfb5582d,ca936c67687789e9,Light Heavyweight,U-DEC,Unanimous Decision,5,5:00,300,1500,d802174b0c0c1f4e
+a2f31cf3a28a7730,9e8f6c728eb01124,c814b4c899793af6,ca936c67687789e9,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,9e8f6c728eb01124
+a3cd6a65aaa9f104,e4a47b07044ddd72,4d8fa64202cee4c1,ca936c67687789e9,Lightweight,SUB,Submission,1,2:29,149,149,e4a47b07044ddd72
+79f1c9f97d83ec83,3df5493bb279226f,abcf2cc6efc42031,ca936c67687789e9,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,3df5493bb279226f
+231968c02cdfe65e,9c393e836a852f30,887961364be5ceb3,ca936c67687789e9,Lightweight,KO/TKO,Knockout or Technical Knockout,1,2:07,127,127,9c393e836a852f30
+af3e43049bc86fe9,17e97649403ba428,2f43a3e82661fa99,ca936c67687789e9,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,17e97649403ba428
+e61cb905f6152183,1e719d4b676dc19a,369ea36e450ae62a,ca936c67687789e9,Middleweight,SUB,Submission,2,4:27,267,567,1e719d4b676dc19a
+cab4937435d081d0,28d421729451c8ca,cdb96af67d096b1e,ca936c67687789e9,Welterweight,KO/TKO,Knockout or Technical Knockout,1,4:16,256,256,28d421729451c8ca
+19fe7177254802d1,480779d7f9a424d3,5d495dec23d7c68e,ca936c67687789e9,Featherweight,S-DEC,Split Decision,3,5:00,300,900,480779d7f9a424d3
+96c2f85b46e98e91,6967153c7edb4d87,312f7d7b2b2f7de4,ca936c67687789e9,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,6967153c7edb4d87
+9d8a37f130db13e5,5d1b7e3dd9e11074,8d3273573b85be09,9766ed20b68c7c33,Flyweight,KO/TKO,Knockout or Technical Knockout,3,2:16,136,736,5d1b7e3dd9e11074
+6bdf0756fb57aced,f14f644d41ade29f,d0e1b42d41dab603,9766ed20b68c7c33,Middleweight,KO/TKO,Knockout or Technical Knockout,1,4:45,285,285,f14f644d41ade29f
+061990783b9bdb36,b7b84ccd221be298,323d4ca260dfa0ba,9766ed20b68c7c33,Lightweight,S-DEC,Split Decision,3,5:00,300,900,b7b84ccd221be298
+0dfdc94c1da32e20,41cc71cbf210e0fe,e1d40e8782d80bc2,9766ed20b68c7c33,Featherweight,S-DEC,Split Decision,3,5:00,300,900,41cc71cbf210e0fe
+d6c3b730dc9f21a5,8b6e5dc2ba1edbe7,b7c5eb7cdbac6a63,9766ed20b68c7c33,Welterweight,KO/TKO,Knockout or Technical Knockout,1,3:10,190,190,8b6e5dc2ba1edbe7
+a857acedb53ee959,39d309957c5c210d,be9bdec19b7e9ffe,9766ed20b68c7c33,Heavyweight,KO/TKO,Knockout or Technical Knockout,2,0:39,39,339,39d309957c5c210d
+dd1df7f5a54fd9fc,e0c6edcb5b5d0b90,1ae8f3c723aacff4,9766ed20b68c7c33,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,e0c6edcb5b5d0b90
+1de799f17556b501,d964a59c48381cb6,710f0f8c5d5c9d41,9766ed20b68c7c33,Featherweight,S-DEC,Split Decision,3,5:00,300,900,d964a59c48381cb6
+1ada4b9ee5810e0f,6fd953151d981979,05fa626cb33d15b8,9766ed20b68c7c33,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,6fd953151d981979
+206b8c14546d71f1,7d0a1968b38ca439,814e5233e2acf2ee,9766ed20b68c7c33,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,7d0a1968b38ca439
+b959e2c1d16ff832,efb96bf3e9ada36f,056c493bbd76a918,c50ea21fe9ef478d,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,efb96bf3e9ada36f
+0cdca4c22b8d3ab5,093e1f5bb73850be,2f181c0467965b98,c50ea21fe9ef478d,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,093e1f5bb73850be
+19c8092496e94b85,05339613bf8e9808,ffd3224638c01b57,c50ea21fe9ef478d,Catch Weight,S-DEC,Split Decision,3,5:00,300,900,05339613bf8e9808
+8ef7723b6a8b45e1,52ef95b5860fb28c,a52bc1e62cf0b7c6,c50ea21fe9ef478d,Featherweight,KO/TKO,Knockout or Technical Knockout,1,4:15,255,255,52ef95b5860fb28c
+c0d8a231d2f1d1af,a495f599e787614f,6add18754930182b,c50ea21fe9ef478d,Light Heavyweight,S-DEC,Split Decision,3,5:00,300,900,a495f599e787614f
+08763e87e10b9709,cd13728ae1151f46,6e8f1bcdda94ff45,c50ea21fe9ef478d,Light Heavyweight,SUB,Submission,1,2:51,171,171,cd13728ae1151f46
+3ded9bfdfb75f39b,20bccc9bb4ceb23e,8fd808923cffff82,c50ea21fe9ef478d,Featherweight,SUB,Submission,1,4:30,270,270,20bccc9bb4ceb23e
+e011819e721c4a2a,841695e02c99a521,7eaa5e31c2dd86aa,c50ea21fe9ef478d,Middleweight,KO/TKO,Knockout or Technical Knockout,2,3:24,204,504,841695e02c99a521
+bc6d70ab959dce70,5987b2458f4b5290,bbab3baf66128ae2,c50ea21fe9ef478d,Bantamweight,KO/TKO,Knockout or Technical Knockout,1,3:58,238,238,5987b2458f4b5290
+615f7f894bafad82,32c3ee378671a5d9,0f1efce7d2571d10,c50ea21fe9ef478d,Catch Weight,KO/TKO,Knockout or Technical Knockout,2,4:13,253,553,32c3ee378671a5d9
+e9dfc2f009a77a8d,49d2a08964c5eb11,9508cc6184cb2450,c50ea21fe9ef478d,Middleweight,KO/TKO,Knockout or Technical Knockout,2,0:33,33,333,49d2a08964c5eb11
+b6475543ab6d20c9,476fe566d2df676e,09a4447655fd4b7b,c50ea21fe9ef478d,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,2:12,132,132,476fe566d2df676e
+365e2d891b98b86d,13a0275fa13c4d26,d1c65d2cf2925ddd,ce7871949b0ed2bf,Middleweight,KO/TKO,Knockout or Technical Knockout,4,0:21,21,921,13a0275fa13c4d26
+68913a422f548ccc,52c2ae6d2f2d2613,751de04455cfaac0,ce7871949b0ed2bf,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,52c2ae6d2f2d2613
+f5386c98fea7f5d4,4144798612ef96e5,a817e238b2747404,ce7871949b0ed2bf,Middleweight,KO/TKO,Knockout or Technical Knockout,1,1:35,95,95,4144798612ef96e5
+ce1436a9b58902a7,ff62013d2fce6d13,eb393afdbe3293d5,ce7871949b0ed2bf,Lightweight,KO/TKO,Knockout or Technical Knockout,1,5:00,300,300,ff62013d2fce6d13
+875b249ebe45a66b,5f61780fe5e9b6d0,260e9e0d4954aea6,ce7871949b0ed2bf,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,5f61780fe5e9b6d0
+2a493f15e079a7ff,7d6ceff6747f2de2,36e78278a77006d4,ce7871949b0ed2bf,Featherweight,KO/TKO,Knockout or Technical Knockout,1,2:58,178,178,7d6ceff6747f2de2
+f4817d5cbe9be532,f0feeb2192937424,8bd4200561c77a62,ce7871949b0ed2bf,Women's Strawweight,S-DEC,Split Decision,3,5:00,300,900,f0feeb2192937424
+2ae33fce63a75df9,83455a9d17f57dae,c051c2e12d692b8a,ce7871949b0ed2bf,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,83455a9d17f57dae
+7b9f169016746f81,01641ba5df0c69b0,2558ae2e5671e318,ce7871949b0ed2bf,Welterweight,SUB,Submission,2,4:58,298,598,01641ba5df0c69b0
+07b357090cc91c2c,7478b7f959ba61f5,37098a6e6c27fb66,ce7871949b0ed2bf,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,7478b7f959ba61f5
+3b2a24db4eeaeede,f5779a2303ed76ec,1a9480fc288e55d7,ce7871949b0ed2bf,Heavyweight,SUB,Submission,1,1:17,77,77,f5779a2303ed76ec
+58668a0736602842,e3964ece586e0635,86d9dbe1bfcbade7,ce7871949b0ed2bf,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,e3964ece586e0635
+d13849f49f99bf01,0d7b51c9d2649a6e,0d8011111be000b2,e6015889f50075d2,Middleweight,U-DEC,Unanimous Decision,5,5:00,300,1500,0d7b51c9d2649a6e
+03c2a836d033be8f,1ebe20ebbfa15e29,b08012bbe542592a,e6015889f50075d2,Women's Strawweight,U-DEC,Unanimous Decision,5,5:00,300,1500,1ebe20ebbfa15e29
+8435f90fbd50c7a5,17923f676f100e16,e13abac8089a801a,e6015889f50075d2,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,0:35,35,35,17923f676f100e16
+de85ef2fd4769070,70e1f8a821b72c8b,69898645d600abdb,e6015889f50075d2,Light Heavyweight,M-DEC,Majority Decision,3,5:00,300,900,DRAW
+4ce53d8a26693f06,a845f0735bc67405,3920d0cc288f9b0d,e6015889f50075d2,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,a845f0735bc67405
+c35a53be30bfd066,f2f140ce7532e327,a9da3158dd2c2b5a,e6015889f50075d2,Featherweight,SUB,Submission,3,2:06,126,726,f2f140ce7532e327
+64641156360b1b81,6c3b2525436cf5d4,19c591115a58982c,e6015889f50075d2,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,6c3b2525436cf5d4
+946cae1beed2baec,2997e7fe3c9d3d4a,7138a15258dabf20,e6015889f50075d2,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,2997e7fe3c9d3d4a
+c7fadbdfdc14c282,4a6dff1b260bcf61,ed7d329d7c29428d,e6015889f50075d2,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,4a6dff1b260bcf61
+1f70a4516a70abf2,a13d755965a4ec9f,aebaa8cec15b083d,e6015889f50075d2,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,a13d755965a4ec9f
+8bc8bb0021337de7,f782f953bfe7b5f2,dda15dbfafb792df,e6015889f50075d2,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,f782f953bfe7b5f2
+4218d1d1ce6d322c,17734443a833cdf7,a72a2a769fa5a2be,e6015889f50075d2,Lightweight,KO/TKO,Knockout or Technical Knockout,1,0:19,19,19,17734443a833cdf7
+85e79748b75eb30e,881bf86d4cba8578,1338e2c7480bdf9e,80dbeb1dd5b53e64,Middleweight,KO/TKO,Knockout or Technical Knockout,2,0:30,30,330,881bf86d4cba8578
+426e7a3de68117b0,a67d071163962af8,06734ca9d88dec3a,80dbeb1dd5b53e64,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,a67d071163962af8
+3c00f34f20c8a189,f14cf73e51b29254,2cd428e9606856fd,80dbeb1dd5b53e64,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,f14cf73e51b29254
+70b8dca3addcf4de,18d01f7f8338ae72,0fd5f4b838e890cc,80dbeb1dd5b53e64,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,18d01f7f8338ae72
+775788423f5eeb99,1e4f273069fb9e85,fb3e61720be4690c,80dbeb1dd5b53e64,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,1e4f273069fb9e85
+940f586104bf8bc8,8d11d9c13e2ccdf7,7facc9c45d792985,80dbeb1dd5b53e64,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,8d11d9c13e2ccdf7
+43bbaf06603b0f0c,6747ccd6d1acd266,764d39074a352e33,80dbeb1dd5b53e64,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,3:12,192,192,6747ccd6d1acd266
+e97e71a593e4c28d,809bd1a871491508,38c626ca912c7bac,80dbeb1dd5b53e64,Lightweight,KO/TKO,Knockout or Technical Knockout,1,2:01,121,121,809bd1a871491508
+91bf33ada75d6061,a9e260472d321361,cc8c623cca88f54f,80dbeb1dd5b53e64,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,a9e260472d321361
+750257171ad29a2c,fb37795db81f93f3,11583163f45c7b31,80dbeb1dd5b53e64,Featherweight,KO/TKO,Knockout or Technical Knockout,2,4:22,262,562,fb37795db81f93f3
+984ce1062186f3ce,3329d692aea4dc28,f41b9f5efc7162d6,80dbeb1dd5b53e64,Heavyweight,S-DEC,Split Decision,3,5:00,300,900,3329d692aea4dc28
+daef1691c7d6b1e4,275aca31f61ba28c,b6452706b373eea1,39f68882def7a507,Lightweight,SUB,Submission,1,4:05,245,245,275aca31f61ba28c
+f39941b3743bf18c,c03520b5c88ed6b4,2b6fc1c02736833d,39f68882def7a507,Bantamweight,U-DEC,Unanimous Decision,5,5:00,300,1500,c03520b5c88ed6b4
+959fea398ffa5778,009341ed974bad72,5444c5a201d3ee5a,39f68882def7a507,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,3,3:01,181,781,009341ed974bad72
+54d48b33e7240452,41e83a89929d1327,e2f6b2769aaedd6c,39f68882def7a507,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,4:53,293,293,41e83a89929d1327
+69d63c057aebffaf,d549cefc7c54ab78,3a46b268013afede,39f68882def7a507,Middleweight,SUB,Submission,1,3:31,211,211,d549cefc7c54ab78
+d14f98b24691d082,b9f28e7045fdfce7,6e743a33d56bdaa4,39f68882def7a507,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,b9f28e7045fdfce7
+938081fae11dcbbf,3bc3f60b21cddc6a,23dec7c47cb418f8,39f68882def7a507,Middleweight,KO/TKO,Knockout or Technical Knockout,1,3:04,184,184,3bc3f60b21cddc6a
+a6db8eb1fb3eebf2,ef5dcb10d2bd4b0f,07a74004d964c7f4,39f68882def7a507,Light Heavyweight,SUB,Submission,2,3:33,213,513,ef5dcb10d2bd4b0f
+aa3fca085d476636,99bd51917728c25d,f53d4f21d1b5f2dc,39f68882def7a507,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,99bd51917728c25d
+340fcdcabc49f142,06e4245d16fc5315,351c4ec637380ad5,39f68882def7a507,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,06e4245d16fc5315
+e5e3d396a9b1c5ae,a54660deb6a8489c,d8c811df0386d5e8,39f68882def7a507,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,a54660deb6a8489c
+95ba27bea09cd84e,b6c37948cb226e8c,cd3d7e37ff2d679c,39f68882def7a507,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,b6c37948cb226e8c
+e294a1e5723011db,f00ac08ab056af5d,b62d5280966b2460,39f68882def7a507,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,f00ac08ab056af5d
+f46308108eb9261a,7447e9f28508106a,beecb672a279223e,81ddc98fceb30086,Women's Strawweight,SUB,Submission,3,4:56,296,896,7447e9f28508106a
+ce4fc800a7456d18,6d1bffff14897645,a53d30163304aa6e,81ddc98fceb30086,Welterweight,KO/TKO,Knockout or Technical Knockout,3,3:13,193,793,6d1bffff14897645
+a2a5809ed8a01b45,64d47ef881a437a4,eae431e70064e046,81ddc98fceb30086,Middleweight,KO/TKO,Knockout or Technical Knockout,1,4:16,256,256,64d47ef881a437a4
+aa38e39397dbea72,9d83f6da776ff7d6,5442f1bc4b47eaf3,81ddc98fceb30086,Middleweight,KO/TKO,Knockout or Technical Knockout,3,4:59,299,899,9d83f6da776ff7d6
+03c1865919daeaa4,5ec591b78349ba7e,d3f89fa685bd8420,81ddc98fceb30086,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,5ec591b78349ba7e
+32cc31b76b32ade1,64facb6cc564262d,681399317dbf4701,81ddc98fceb30086,Welterweight,KO/TKO,Knockout or Technical Knockout,1,0:31,31,31,64facb6cc564262d
+8a3281b0d7c168af,53c10176e3bc7416,84f727cf0166d6f2,81ddc98fceb30086,Flyweight,SUB,Submission,1,2:04,124,124,53c10176e3bc7416
+8d68863242695224,9384e71bca6c409d,260bd4cef10b033f,81ddc98fceb30086,Middleweight,KO/TKO,Knockout or Technical Knockout,1,3:04,184,184,9384e71bca6c409d
+54fa6e32330a8cca,d945aae53e3e54e6,cfc3e7bb44685289,81ddc98fceb30086,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,d945aae53e3e54e6
+58eda5a58a89f739,85497ffd934ecf7e,9fe7af8b3fbe00a0,81ddc98fceb30086,Welterweight,KO/TKO,Knockout or Technical Knockout,1,1:13,73,73,85497ffd934ecf7e
+b33e3a6d15700bb1,e4faa79383c9f214,fc0a4053eb8a3a59,81ddc98fceb30086,Women's Flyweight,S-DEC,Split Decision,3,5:00,300,900,e4faa79383c9f214
+817cd15077a9419e,0abcf6bc47191219,6e344b71421103da,81ddc98fceb30086,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,0abcf6bc47191219
+f01851055b8309e0,745fa7b605f8e2da,6c9b66b43663f2f7,81ddc98fceb30086,Women's Strawweight,KO/TKO,Knockout or Technical Knockout,2,4:27,267,567,745fa7b605f8e2da
+192619174bd1ad77,ca28cdf526d6b6e9,af65aa688d13eedf,81ddc98fceb30086,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,ca28cdf526d6b6e9
+00c6a2ef07ca51da,b9437600497350f3,dc9572dd6ec74859,72c9c2eadfc3277e,Welterweight,KO/TKO,Knockout or Technical Knockout,3,4:42,282,882,b9437600497350f3
+7521015554088962,d247691a6c0e9034,aa171d55d4b5208f,72c9c2eadfc3277e,Featherweight,KO/TKO,Knockout or Technical Knockout,3,1:36,96,696,d247691a6c0e9034
+1a635a5e4551e7d5,5d1b7e3dd9e11074,294aa73dbf37d281,72c9c2eadfc3277e,Flyweight,KO/TKO,Knockout or Technical Knockout,3,1:57,117,717,5d1b7e3dd9e11074
+7b1bc4ff776f12c1,e4277e87a789d687,71171fc96445bf65,72c9c2eadfc3277e,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,3,3:44,224,824,e4277e87a789d687
+5238f6470d0557fb,850266b3dc4e506e,0232cabbc30a2372,72c9c2eadfc3277e,Bantamweight,S-DEC,Split Decision,3,5:00,300,900,850266b3dc4e506e
+2b6a75175bbca4e9,b4b496ec2197ee3e,3e8118c1ab52f211,72c9c2eadfc3277e,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,b4b496ec2197ee3e
+9c24c03131d5b49a,511e82663651438d,ee18ff42063174df,72c9c2eadfc3277e,Lightweight,KO/TKO,Knockout or Technical Knockout,2,2:03,123,423,511e82663651438d
+b0be38110c2d8b84,58bbef3770bb2dfc,7cbf7c78d3b34218,72c9c2eadfc3277e,Lightweight,KO/TKO,Knockout or Technical Knockout,1,2:48,168,168,58bbef3770bb2dfc
+ebeeed2595266bbc,4682bc59d5f55145,d2f43cfaf8ca3560,72c9c2eadfc3277e,Featherweight,KO/TKO,Knockout or Technical Knockout,1,4:58,298,298,4682bc59d5f55145
+cf258c17234d649e,9256f591b30c073e,46e0d677f91bacc0,72c9c2eadfc3277e,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,9256f591b30c073e
+e5f9d59d00fe3c73,f29a6350c69f4a33,5c637af9472ae7cc,72c9c2eadfc3277e,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,f29a6350c69f4a33
+b40e4deb48658851,113df4fde64735c6,c5ccd878231c5407,72c9c2eadfc3277e,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,113df4fde64735c6
+edf7ce89ad672e85,e375cb5caf4717b6,971dba22c622af12,72c9c2eadfc3277e,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,e375cb5caf4717b6
+e761c5009c09b295,a0f0004aadf10b71,d33da8a3d82bdb62,ad23903ef3af7406,Flyweight,SUB,Submission,2,2:05,125,425,a0f0004aadf10b71
+1569186ee820ea87,01afe0916a40c7c5,442c9011034ae1fd,ad23903ef3af7406,Welterweight,U-DEC,Unanimous Decision,5,5:00,300,1500,01afe0916a40c7c5
+f706508c52f337a6,787bb1f087ccff8a,279566840aa55bf2,ad23903ef3af7406,Heavyweight,S-DEC,Split Decision,3,5:00,300,900,787bb1f087ccff8a
+0292b9c31c0089ac,d9c6f19f958643e9,242d36d241b43c12,ad23903ef3af7406,Featherweight,KO/TKO,Knockout or Technical Knockout,3,0:39,39,639,d9c6f19f958643e9
+089388c9f00ce9c6,e93b04e308913c2e,583ee11abddfc581,ad23903ef3af7406,Featherweight,KO/TKO,Knockout or Technical Knockout,3,3:21,201,801,e93b04e308913c2e
+97caf8fca9d9603b,2e19380f34871c6a,d4c9dcd330403612,ad23903ef3af7406,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,2,4:46,286,586,2e19380f34871c6a
+4914f7bd073c6359,6d4b63c767106d3a,40f3cb27fc7305a1,ad23903ef3af7406,Welterweight,SUB,Submission,1,0:52,52,52,6d4b63c767106d3a
+df30514e0674d598,76e2870ffafbe38f,cb696ebfb6598724,ad23903ef3af7406,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,76e2870ffafbe38f
+7c0d0a28a8fba102,f626118b6da0e020,c6aee362c7a7d482,ad23903ef3af7406,Welterweight,S-DEC,Split Decision,3,5:00,300,900,f626118b6da0e020
+0f16d83859d608c7,cad24459b28592ca,3a8176e15b9887c1,ad23903ef3af7406,Catch Weight,KO/TKO,Knockout or Technical Knockout,2,4:51,291,591,cad24459b28592ca
+d38029cf47e54cf7,17e97649403ba428,7f6ed67d3ed3c036,ad23903ef3af7406,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,17e97649403ba428
+a5c57b0f49e9f61c,c58f51dedb310998,b0d6a1d8ac3d563d,ad23903ef3af7406,Welterweight,SUB,Submission,3,1:56,116,716,c58f51dedb310998
+72b12a837290b327,971246648e162f0d,c47df9303d318c67,ad23903ef3af7406,Lightweight,SUB,Submission,1,3:41,221,221,971246648e162f0d
+eb94412f15c62650,8667caa0451d245b,0c25d0a5e8cdbf19,ad23903ef3af7406,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,4:51,291,291,8667caa0451d245b
+f53573316a4f349f,d661ce4da776fc20,aa72b0f831d0bfe5,e955046551f8c7dd,Bantamweight,U-DEC,Unanimous Decision,5,5:00,300,1500,d661ce4da776fc20
+f0c4aff7dd1ec4e9,c41d426cc7326d1b,d25240135aee03e5,e955046551f8c7dd,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,c41d426cc7326d1b
+bec57d7cce0e6257,447f9858ae78f921,32490e80ddab1e5a,e955046551f8c7dd,Welterweight,KO/TKO,Knockout or Technical Knockout,1,3:49,229,229,447f9858ae78f921
+64d6d51219e0664c,a6eb54ae17a551be,2997e7fe3c9d3d4a,e955046551f8c7dd,Women's Flyweight,SUB,Submission,2,3:49,229,529,a6eb54ae17a551be
+02ec66f311dce539,9014c02eff8b3d62,0845c81e37d3bcb3,e955046551f8c7dd,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,9014c02eff8b3d62
+56d2c00dfd391fcf,8a65fd9ba31fd3f7,6967153c7edb4d87,e955046551f8c7dd,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,2:25,145,145,8a65fd9ba31fd3f7
+9c207acb12c17a67,a474aade8eb3a8f0,8677e67a75d65b8e,e955046551f8c7dd,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,a474aade8eb3a8f0
+828de4f5585c908c,3be16d817b36098b,296a120cb880477b,e955046551f8c7dd,Flyweight,KO/TKO,Knockout or Technical Knockout,1,2:36,156,156,3be16d817b36098b
+baee9b2491c986e2,d683f4870742b273,c940b42df95bbd28,e955046551f8c7dd,Women's Strawweight,KO/TKO,Knockout or Technical Knockout,3,0:46,46,646,d683f4870742b273
+5dab54e34c2cfe01,798e48f9e7f6ba22,17cb6d8e8187f304,e955046551f8c7dd,Flyweight,S-DEC,Split Decision,3,5:00,300,900,798e48f9e7f6ba22
+38f1c83c19e99fa2,bb2c3c3a466224af,88be62d6c1e6dadb,e955046551f8c7dd,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,bb2c3c3a466224af
+f5f28a8b472b8012,86bace9e4ad85542,32feae6d9a1e5047,e955046551f8c7dd,Bantamweight,KO/TKO,Knockout or Technical Knockout,3,1:28,88,688,86bace9e4ad85542
+86a2f07e0bf20297,37f560436d745c18,8c1ca54b5089d199,e955046551f8c7dd,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,37f560436d745c18
+b35e47f2f58ef026,07f72a2a7591b409,d28dee5c705991df,daff32bc96d1eabf,Heavyweight,KO/TKO,Knockout or Technical Knockout,3,4:29,269,869,07f72a2a7591b409
+4f4189009a190e35,07225ba28ae309b6,4b93a88f3b1de35b,daff32bc96d1eabf,Lightweight,U-DEC,Unanimous Decision,5,5:00,300,1500,07225ba28ae309b6
+cfd3e62c638fbd1f,35673bf5204524ee,eabf206b162b3b83,daff32bc96d1eabf,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,35673bf5204524ee
+8545a2495db16538,36541f1e6c5d4955,9d62c2d8ee151f08,daff32bc96d1eabf,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,36541f1e6c5d4955
+55eebc2ee92bf00a,9c393e836a852f30,93b2b7caa457cbea,daff32bc96d1eabf,Catch Weight,U-DEC,Unanimous Decision,3,5:00,300,900,9c393e836a852f30
+2a930e2d7e1f87a9,c0ac37a4a1133da9,f2477cf43c4975cc,daff32bc96d1eabf,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,c0ac37a4a1133da9
+35c8223cc967fe0a,d1941565abf50b16,29af297d9f1de0f8,daff32bc96d1eabf,Lightweight,SUB,Submission,1,2:44,164,164,d1941565abf50b16
+c565e2baa27cc7e5,ffe9703408fb5964,15ea371202eb25e1,daff32bc96d1eabf,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,ffe9703408fb5964
+6c1faa6284428e5d,c9cf753cfdf77fc2,25f9a5f3e8a52618,daff32bc96d1eabf,Heavyweight,KO/TKO,Knockout or Technical Knockout,2,5:00,300,600,c9cf753cfdf77fc2
+00414fc5519233b4,3d074044a33825e7,9e50097a89442158,daff32bc96d1eabf,Welterweight,KO/TKO,Knockout or Technical Knockout,1,2:55,175,175,3d074044a33825e7
+9676a4e9362e4bfd,6b56e94a59b7b134,f4d92416da98804b,daff32bc96d1eabf,Welterweight,KO/TKO,Knockout or Technical Knockout,3,0:40,40,640,6b56e94a59b7b134
+40e2a7b65794ac05,de594b35c45c2e9a,4798e823ada58fe9,daff32bc96d1eabf,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,de594b35c45c2e9a
+73f451d894a1d4ca,7ee0fd831c0fe7c3,84b3e7d38f2d2ec5,585f9ffdb0cd0466,Welterweight,KO/TKO,Knockout or Technical Knockout,1,4:50,290,290,7ee0fd831c0fe7c3
+154138c8fc89c315,d549cefc7c54ab78,6ac9bc2953c47345,585f9ffdb0cd0466,Middleweight,SUB,Submission,3,1:44,104,704,d549cefc7c54ab78
+e6685759ed2af90d,96924b0019b3aff1,8173f134396cb971,585f9ffdb0cd0466,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,96924b0019b3aff1
+c31d9cac7534d879,38c7f72747f4f712,a3a542074109b347,585f9ffdb0cd0466,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,38c7f72747f4f712
+ea6427379a83bd01,841695e02c99a521,866fd7b1a6c90e7f,585f9ffdb0cd0466,Middleweight,KO/TKO,Knockout or Technical Knockout,1,2:44,164,164,841695e02c99a521
+e62033cb1e79aa81,cffb87059e645bd1,d7c3816669784109,585f9ffdb0cd0466,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,cffb87059e645bd1
+c9d2a718f39274c0,8adcbd525fab8d9b,03dee485905dbc9f,585f9ffdb0cd0466,Welterweight,KO/TKO,Knockout or Technical Knockout,1,1:15,75,75,8adcbd525fab8d9b
+6b9ed3867dd42b3b,feedf3053472fe56,4aa58269d0664b5b,585f9ffdb0cd0466,Welterweight,KO/TKO,Knockout or Technical Knockout,1,0:51,51,51,feedf3053472fe56
+6fd1edb58d271f7c,da22387a0407a2dc,bf7ad5628363eec9,585f9ffdb0cd0466,Bantamweight,SUB,Submission,1,4:19,259,259,da22387a0407a2dc
+582846744e379178,147e70aa6cc48cfc,6d48a2df51749d91,585f9ffdb0cd0466,Middleweight,SUB,Submission,1,1:23,83,83,147e70aa6cc48cfc
+32f2965b4f4c4ebf,bd532e9a2b93870c,9f5e3c20ce40b344,585f9ffdb0cd0466,Women's Bantamweight,KO/TKO,Knockout or Technical Knockout,2,1:20,80,380,bd532e9a2b93870c
+799acf3ae8a5df0a,792be9a24df82ed6,6d35bf94f7d30241,3ab0df1ddd5f1dc2,Flyweight,U-DEC,Unanimous Decision,5,5:00,300,1500,792be9a24df82ed6
+18729b11614406bf,669970f7feba8ecd,47b63240018d5d86,3ab0df1ddd5f1dc2,Women's Flyweight,U-DEC,Unanimous Decision,5,5:00,300,1500,669970f7feba8ecd
+7edf2fe3a8776a44,49edd0d90f60fb7d,89839250eb25c9c1,3ab0df1ddd5f1dc2,Light Heavyweight,S-DEC,Split Decision,3,5:00,300,900,49edd0d90f60fb7d
+eaa885cf7ae31e0b,a9e260472d321361,6551c64fbcd1a467,3ab0df1ddd5f1dc2,Women's Flyweight,SUB,Submission,3,2:28,148,748,a9e260472d321361
+6ad594777cce2d7d,71505842fb6455c3,8e9eb3fc86db0f7d,3ab0df1ddd5f1dc2,Middleweight,KO/TKO,Knockout or Technical Knockout,1,4:28,268,268,71505842fb6455c3
+d29a82322bb083d9,dd6103dd7127db1d,b27a1fcb56a3035a,3ab0df1ddd5f1dc2,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,dd6103dd7127db1d
+b989d4d7e220b3c1,24656ef4d605c96f,6bd02119599741a4,3ab0df1ddd5f1dc2,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,24656ef4d605c96f
+24581e2b39fe3319,f1d64ae34e088832,eb8d8c2a95cfccb8,3ab0df1ddd5f1dc2,Bantamweight,SUB,Submission,2,3:43,223,523,f1d64ae34e088832
+5256ba94641a4284,52c2ae6d2f2d2613,b8a85389d115e35a,3ab0df1ddd5f1dc2,Featherweight,SUB,Submission,2,0:59,59,359,52c2ae6d2f2d2613
+de084f0d65421cfa,c0badf3243907e59,d31a5546c0e9b213,3ab0df1ddd5f1dc2,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,c0badf3243907e59
+f93b074dfd47b4b4,1a2bf44edb8055b6,1effd880e1f1bb30,3ab0df1ddd5f1dc2,Bantamweight,S-DEC,Split Decision,3,5:00,300,900,1a2bf44edb8055b6
+c9cef59a5de32219,700a674c042b7a96,c7c39e2fb70248b3,3ab0df1ddd5f1dc2,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,700a674c042b7a96
+f0723cda67db3954,5c637af9472ae7cc,38c5817ade8a8014,3ab0df1ddd5f1dc2,Women's Flyweight,S-DEC,Split Decision,3,5:00,300,900,5c637af9472ae7cc
+ebf7cea27b83c432,54f64b5e283b0ce7,150ff4cc642270b9,221b2a3070c7ce3e,Featherweight,KO/TKO,Knockout or Technical Knockout,3,1:34,94,694,54f64b5e283b0ce7
+b8bf186f884678ea,767755fd74662dbf,e1147d3d2dabe1ce,221b2a3070c7ce3e,Middleweight,SUB,Submission,1,3:34,214,214,767755fd74662dbf
+b09f54654b0f95f5,d802174b0c0c1f4e,333b9e5c723ac873,221b2a3070c7ce3e,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,d802174b0c0c1f4e
+cc11a0762f246fa4,396fe87b84ac2e1c,82a5152216251682,221b2a3070c7ce3e,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,396fe87b84ac2e1c
+108434acbbd75d26,06734ca9d88dec3a,369ea36e450ae62a,221b2a3070c7ce3e,Middleweight,KO/TKO,Knockout or Technical Knockout,2,4:52,292,592,06734ca9d88dec3a
+781a2ea50f5ae68f,6e8f1bcdda94ff45,09a4447655fd4b7b,221b2a3070c7ce3e,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,1,0:51,51,51,6e8f1bcdda94ff45
+1d65c141776949d6,b997be68943010fc,6a2f7c151031653d,221b2a3070c7ce3e,Welterweight,KO/TKO,Knockout or Technical Knockout,1,1:30,90,90,b997be68943010fc
+919e3c5cc6999cb3,849c5d9979df5357,bf2c8e01b07d3eb1,221b2a3070c7ce3e,Catch Weight,S-DEC,Split Decision,3,5:00,300,900,849c5d9979df5357
+af6eeea1cfe33240,36b8f265bcd1b7a4,1e719d4b676dc19a,221b2a3070c7ce3e,Middleweight,SUB,Submission,3,3:14,194,794,36b8f265bcd1b7a4
+df7928de73fc2fe8,8667caa0451d245b,7a5e8c94a86f9895,221b2a3070c7ce3e,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,4:27,267,267,8667caa0451d245b
+5c783cd188425783,a09ed60aa67a3f67,f264ba50b007f39e,221b2a3070c7ce3e,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,a09ed60aa67a3f67
+bde635a4f345bc3e,6a96ad1bc34fb113,12ebd7d157e91701,221b2a3070c7ce3e,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,6a96ad1bc34fb113
+6114076c689e8457,8f765fd5775a8873,28d421729451c8ca,221b2a3070c7ce3e,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,8f765fd5775a8873
+a2f2c64f9fb3fb1c,093e1f5bb73850be,595db60957de51d3,6a0047ac8c99fece,Middleweight,KO/TKO,Knockout or Technical Knockout,5,2:22,142,1342,093e1f5bb73850be
+f01b97e864cb4b8b,05339613bf8e9808,60425d07ef4b91a7,6a0047ac8c99fece,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,05339613bf8e9808
+503d7342cc08109f,814e5233e2acf2ee,3cf18e01cb6cbde3,6a0047ac8c99fece,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,814e5233e2acf2ee
+a2f46e94aa6b0c64,5c84f673b7bb7c15,60a42bf82447c919,6a0047ac8c99fece,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,5c84f673b7bb7c15
+0599f35e6679de02,92a9aa9c93192871,361d49960a196976,6a0047ac8c99fece,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,92a9aa9c93192871
+c61923255389e67c,8d3273573b85be09,1a31ef98efce7a79,6a0047ac8c99fece,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,8d3273573b85be09
+308f6cb830019ea9,ffd3224638c01b57,7b433309b0fd12aa,6a0047ac8c99fece,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,ffd3224638c01b57
+fc73ecbd83b7f159,f9ab66e67240db7b,4f3064faf17aa711,6a0047ac8c99fece,Women's Bantamweight,SUB,Submission,3,4:33,273,873,f9ab66e67240db7b
+53f7f1b4834387a8,ac7c765882f2c68c,c742287ed86a09bc,6a0047ac8c99fece,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,ac7c765882f2c68c
+4277b02a4dadac40,3f4c3bc822bea45d,87f8699fdcc2c404,6a0047ac8c99fece,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,3f4c3bc822bea45d
+32b8c6c4b735d712,be9bdec19b7e9ffe,140567899d98978a,6a0047ac8c99fece,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,be9bdec19b7e9ffe
+998bde5639c61adb,6e15f63b6c2e2c15,4461d7e47375a895,5bdcbd8dd681a257,Flyweight,S-DEC,Split Decision,5,5:00,300,1500,6e15f63b6c2e2c15
+6fa2dae90bda4742,285ae0b4a68221f4,0c6d9ea8306c029e,5bdcbd8dd681a257,Middleweight,S-DEC,Split Decision,3,5:00,300,900,285ae0b4a68221f4
+ee5c0b8a757992af,c68c68efaa5ca6ef,c730a0be691dc081,5bdcbd8dd681a257,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,c68c68efaa5ca6ef
+98c29ba02cee5ba3,99bd51917728c25d,e132d47bd9efbbe0,5bdcbd8dd681a257,Lightweight,KO/TKO,Knockout or Technical Knockout,2,1:42,102,402,99bd51917728c25d
+f690949d90ff1dee,8a1f3b5c526cd6e6,cdb96af67d096b1e,5bdcbd8dd681a257,Welterweight,S-DEC,Split Decision,3,5:00,300,900,8a1f3b5c526cd6e6
+f1cc9169813c4a3e,7d0a1968b38ca439,077e3ace32b72be9,5bdcbd8dd681a257,Flyweight,KO/TKO,Knockout or Technical Knockout,1,2:50,170,170,7d0a1968b38ca439
+69a5895fde58432c,b8bbdeff718dbb7d,87c0b1c696ddfb43,5bdcbd8dd681a257,Featherweight,SUB,Submission,1,4:06,246,246,b8bbdeff718dbb7d
+57415110bd494c79,40f3cb27fc7305a1,d8da10db80131bec,5bdcbd8dd681a257,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,40f3cb27fc7305a1
+85854504ce1aa97a,c15fa95b9a12fde4,0f3a990526c5e706,5bdcbd8dd681a257,Heavyweight,KO/TKO,Knockout or Technical Knockout,2,2:15,135,435,c15fa95b9a12fde4
+48dd2c9cb39bd2d4,abb68e3c7ca128f2,3351aa64aa83c4d9,5bdcbd8dd681a257,Women's Strawweight,S-DEC,Split Decision,3,5:00,300,900,abb68e3c7ca128f2
+b23554da35a84fbc,8e6654e9f0461b8f,e4ba58725825412d,5bdcbd8dd681a257,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,8e6654e9f0461b8f
+de484433eef22e1d,b62d5280966b2460,e0d3d9b564f95635,5bdcbd8dd681a257,Flyweight,SUB,Submission,2,2:12,132,432,b62d5280966b2460
+8c5e06c71f392f33,e5549c82bfb5582d,749f572d1d3161fb,eee8efec7b951d84,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,4,4:32,272,1172,e5549c82bfb5582d
+1d68bb733de24b06,3253b16d38ae087d,fc169c387b4b465d,eee8efec7b951d84,Women's Bantamweight,S-DEC,Split Decision,5,5:00,300,1500,3253b16d38ae087d
+3d7d82fff71e395a,bc711b6dd95c1af6,d0f3959b4a9747e6,eee8efec7b951d84,Bantamweight,S-DEC,Split Decision,3,5:00,300,900,bc711b6dd95c1af6
+5931cd9cf5da5f75,327d5f279895110d,3a46b268013afede,eee8efec7b951d84,Middleweight,KO/TKO,Knockout or Technical Knockout,1,5:00,300,300,327d5f279895110d
+9ea124a13d071186,1af1170ed937cba7,b9706f80d005036c,eee8efec7b951d84,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,1af1170ed937cba7
+69bca5091b2a31f6,b9437600497350f3,4a28cb716c19157a,eee8efec7b951d84,Welterweight,KO/TKO,Knockout or Technical Knockout,3,2:17,137,737,b9437600497350f3
+eb73b63bbd7b88a7,abcf2cc6efc42031,cd2c4d30c6e13b47,eee8efec7b951d84,Women's Strawweight,S-DEC,Split Decision,3,5:00,300,900,abcf2cc6efc42031
+e8aad69aace1d31f,262a7d06203657e6,d2cd7a69cc55e7ed,eee8efec7b951d84,Lightweight,S-DEC,Split Decision,3,5:00,300,900,262a7d06203657e6
+ed5b6681ab4e83e5,64d47ef881a437a4,260bd4cef10b033f,eee8efec7b951d84,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,64d47ef881a437a4
+58dec0a39cdefa3f,a67f5afa8d6a1b80,50db8711c70196cd,eee8efec7b951d84,Light Heavyweight,SUB,Submission,1,1:35,95,95,a67f5afa8d6a1b80
+58e5fc1914c4e641,31ef8b67e13495b3,d910665038efc639,eee8efec7b951d84,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,31ef8b67e13495b3
+84b3577229880760,523fa774700d7d3f,4b47e71384a9522f,eee8efec7b951d84,Welterweight,SUB,Submission,1,3:19,199,199,523fa774700d7d3f
+7ca4c91bab696b89,b6452706b373eea1,c2299ec916bc7c56,079488710f012779,Lightweight,KO/TKO,Knockout or Technical Knockout,2,5:00,300,600,b6452706b373eea1
+62ff1e5deb124ff5,881bf86d4cba8578,2f181c0467965b98,079488710f012779,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,881bf86d4cba8578
+19706d8ba0edf9cd,e1d40e8782d80bc2,791c8437b341fba5,079488710f012779,Featherweight,S-DEC,Split Decision,3,5:00,300,900,e1d40e8782d80bc2
+45f00a42a17f8e2a,f626118b6da0e020,dda15dbfafb792df,079488710f012779,Welterweight,KO/TKO,Knockout or Technical Knockout,2,3:47,227,527,f626118b6da0e020
+f114929ed709606e,5b03b61f9d90125e,b909a9a9688b5284,079488710f012779,Featherweight,KO/TKO,Knockout or Technical Knockout,2,0:27,27,327,5b03b61f9d90125e
+d806aacf5b6ba7f6,1e4f273069fb9e85,dccb63727f2f5f74,079488710f012779,Lightweight,KO/TKO,Knockout or Technical Knockout,3,2:59,179,779,1e4f273069fb9e85
+89b772f864acb637,cd13728ae1151f46,64ad3e3b0efa30bb,079488710f012779,Light Heavyweight,S-DEC,Split Decision,3,5:00,300,900,cd13728ae1151f46
+3599e9de4ae0e171,46e2011d92463b7e,74f9448b97bf8bec,079488710f012779,Light Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,46e2011d92463b7e
+e01019fbfe0e9528,5b86d491d63890c5,37c5366d18ed6c05,079488710f012779,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,5b86d491d63890c5
+d063d46208c560b1,8b1ed83b02303075,37098a6e6c27fb66,079488710f012779,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,8b1ed83b02303075
+7ba432e218edc17d,06e4245d16fc5315,07047eb7d17fb0a2,079488710f012779,Women's Bantamweight,SUB,Submission,1,3:52,232,232,06e4245d16fc5315
+47d978a984a163aa,e8fe9c15d348e778,dc7927cd622676a7,079488710f012779,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,e8fe9c15d348e778
+a187670c5ee1ec5f,e3964ece586e0635,f2b3f4ef3f780168,079488710f012779,Women's Bantamweight,S-DEC,Split Decision,3,5:00,300,900,e3964ece586e0635
+eedc7fccf7037949,fd406a32a6fb3a29,4bdedbdeedff7d1d,079488710f012779,Lightweight,SUB,Submission,1,3:34,214,214,fd406a32a6fb3a29
+3146e5a47a922976,c03520b5c88ed6b4,b50a426a33da0012,0c01568b1ac77bff,Bantamweight,U-DEC,Unanimous Decision,5,5:00,300,1500,c03520b5c88ed6b4
+6f83cfae0c800ef8,132deb59abae64b1,e8b731feff72294b,0c01568b1ac77bff,Women's Flyweight,U-DEC,Unanimous Decision,5,5:00,300,1500,132deb59abae64b1
+2335e75ce63805b6,f166e93d04a8c274,def8166ff24bd237,0c01568b1ac77bff,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,f166e93d04a8c274
+27d98a8ee6608e27,323d4ca260dfa0ba,4148802ae4a50768,0c01568b1ac77bff,Lightweight,S-DEC,Split Decision,3,5:00,300,900,323d4ca260dfa0ba
+78b506e5092a27fd,f2900678e98f6d6a,6d68c1afe954f121,0c01568b1ac77bff,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,f2900678e98f6d6a
+2397e2a92710705a,d3f5d33d61cd00c9,578ef12674df1e6a,0c01568b1ac77bff,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,d3f5d33d61cd00c9
+3733d100f7bd5590,e4a47b07044ddd72,2e7878927067fdca,0c01568b1ac77bff,Lightweight,KO/TKO,Knockout or Technical Knockout,1,4:02,242,242,e4a47b07044ddd72
+c60a317c7767abb7,8bd4200561c77a62,40cb680ae1cd331f,0c01568b1ac77bff,Women's Strawweight,SUB,Submission,1,3:02,182,182,8bd4200561c77a62
+dae8ad2e03aa4a9a,17e97649403ba428,5ef94841c4bc3f86,0c01568b1ac77bff,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,17e97649403ba428
+3cdc6fea724be133,fe2babf95de24fb1,7d420039bbfe7c1a,0c01568b1ac77bff,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,fe2babf95de24fb1
+ee9ade72b44dfa06,45f7cb591c3ab00b,23024fdfc966410a,ee0b69e307c857e5,Welterweight,U-DEC,Unanimous Decision,5,5:00,300,1500,45f7cb591c3ab00b
+bcfaf1dd78f12f97,262d32ebda89efc4,6a1901c62ab3870f,ee0b69e307c857e5,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,262d32ebda89efc4
+453e6f2665c85fd7,97cf1a2c7c5e7889,31f8081c7600da93,ee0b69e307c857e5,Featherweight,KO/TKO,Knockout or Technical Knockout,1,3:59,239,239,97cf1a2c7c5e7889
+fe59646ebad8b6e4,7f6ed67d3ed3c036,67c1d46f4ed16f9e,ee0b69e307c857e5,Bantamweight,SUB,Submission,2,0:29,29,329,7f6ed67d3ed3c036
+75fa9c0bb31caaa3,c739c2995a275314,0bc697c5936a2d0a,ee0b69e307c857e5,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,c739c2995a275314
+b80c6eba11c54778,06626b6287e1ae1e,a13d755965a4ec9f,ee0b69e307c857e5,Lightweight,KO/TKO,Knockout or Technical Knockout,2,4:14,254,554,06626b6287e1ae1e
+abfd5ac6cf186d8a,a57cb948c4c70a47,d7fe8c6b7d2872e5,ee0b69e307c857e5,Featherweight,SUB,Submission,2,4:19,259,559,a57cb948c4c70a47
+69bde5bae0d6ec4f,b1f21ce050035d58,5cdf5339728f580d,ee0b69e307c857e5,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,b1f21ce050035d58
+6e9876d2be2bbd02,f2f140ce7532e327,3f11fd1751fa83b1,ee0b69e307c857e5,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,f2f140ce7532e327
+f1613b372748c8bb,bc7d1ad49fcb2d08,2c483cf443f38ece,ee0b69e307c857e5,Women's Strawweight,SUB,Submission,1,3:28,208,208,bc7d1ad49fcb2d08
+f734b497add754af,5f61780fe5e9b6d0,a817e238b2747404,ee0b69e307c857e5,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,5f61780fe5e9b6d0
+0c418b9cdfd525c9,a2d342ffc83913ed,641ca2c2ed91b93c,ee0b69e307c857e5,Featherweight,SUB,Submission,2,1:14,74,374,a2d342ffc83913ed
+15805ae1eea3343e,4126a78111c0855a,13a0275fa13c4d26,be8ad887e4d674b0,Middleweight,U-DEC,Unanimous Decision,5,5:00,300,1500,4126a78111c0855a
+70afe9e0d2422252,d25240135aee03e5,f0feeb2192937424,be8ad887e4d674b0,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,d25240135aee03e5
+5c5523a6bf83e44f,d5bab53a1a603aac,0cd0456d6029cec2,be8ad887e4d674b0,Middleweight,KO/TKO,Knockout or Technical Knockout,2,1:49,109,409,d5bab53a1a603aac
+bad06a5380d762b8,480779d7f9a424d3,7facc9c45d792985,be8ad887e4d674b0,Featherweight,KO/TKO,Knockout or Technical Knockout,2,1:30,90,390,480779d7f9a424d3
+ae50a1a655b1a8f6,c32aeb1a59e6272d,84b3e7d38f2d2ec5,be8ad887e4d674b0,Welterweight,KO/TKO,Knockout or Technical Knockout,1,4:39,279,279,c32aeb1a59e6272d
+2cbd53e43d3f606b,6ac9bc2953c47345,4144798612ef96e5,be8ad887e4d674b0,Middleweight,SUB,Submission,2,4:12,252,552,6ac9bc2953c47345
+560f1e26c2a6690a,5d495dec23d7c68e,c4d039123e62f6a9,be8ad887e4d674b0,Lightweight,S-DEC,Split Decision,3,5:00,300,900,5d495dec23d7c68e
+d2caa1ddb9de7481,23dec7c47cb418f8,baa9be02c3e3e038,be8ad887e4d674b0,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,23dec7c47cb418f8
+ba8eda6993922ba0,19c591115a58982c,93b2b7caa457cbea,be8ad887e4d674b0,Lightweight,S-DEC,Split Decision,3,5:00,300,900,19c591115a58982c
+903d588b30a471e8,e3964ece586e0635,68d35296f566792b,be8ad887e4d674b0,Women's Bantamweight,S-DEC,Split Decision,3,5:00,300,900,e3964ece586e0635
+d4127baf74b0e791,2997e7fe3c9d3d4a,9dedfdd91070ddd8,be8ad887e4d674b0,Women's Flyweight,KO/TKO,Knockout or Technical Knockout,1,1:02,62,62,2997e7fe3c9d3d4a
+6c44af21414e4143,0d7b51c9d2649a6e,1338e2c7480bdf9e,32ba186f4b0e3267,Middleweight,SUB,Submission,4,3:38,218,1118,0d7b51c9d2649a6e
+bf8c5effd23f69c4,853eb0dd5c0e2149,32ab52e5de93092d,32ba186f4b0e3267,Flyweight,KO/TKO,Knockout or Technical Knockout,1,4:04,244,244,853eb0dd5c0e2149
+059f5cf0e9e37627,193b9d1858bc4df3,72db2a14ffa73ece,32ba186f4b0e3267,Lightweight,S-DEC,Split Decision,3,5:00,300,900,193b9d1858bc4df3
+dd3d8f7066c145b7,2cd428e9606856fd,c62fbc117d57b943,32ba186f4b0e3267,Heavyweight,S-DEC,Split Decision,3,5:00,300,900,2cd428e9606856fd
+3c319d4659e6c8fd,7ee0fd831c0fe7c3,e64b96c07d7ce999,32ba186f4b0e3267,Welterweight,KO/TKO,Knockout or Technical Knockout,2,4:02,242,542,7ee0fd831c0fe7c3
+ea4ff1d77928b029,f5779a2303ed76ec,c15fa95b9a12fde4,32ba186f4b0e3267,Heavyweight,SUB,Submission,1,4:56,296,296,f5779a2303ed76ec
+43ebfc8914a39061,1ae8f3c723aacff4,6751eacd16bd59bc,32ba186f4b0e3267,Featherweight,S-DEC,Split Decision,3,5:00,300,900,1ae8f3c723aacff4
+b9d5c77ae7a8109b,04835018f90b118c,5078e1dacf9d25f4,32ba186f4b0e3267,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,04835018f90b118c
+bfff6cf22c1c569c,a9da3158dd2c2b5a,4f140403000158b5,32ba186f4b0e3267,Featherweight,KO/TKO,Knockout or Technical Knockout,3,0:48,48,648,a9da3158dd2c2b5a
+ce75f5ecbc0d3dfd,6c3b2525436cf5d4,dc07493a87dc0a6e,32ba186f4b0e3267,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,6c3b2525436cf5d4
+ea824ac4b8ed8a35,32490e80ddab1e5a,814ff3018127e8fc,32ba186f4b0e3267,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,32490e80ddab1e5a
+075a102456080ab2,c051c2e12d692b8a,2bd98ab77a8daa75,32ba186f4b0e3267,Flyweight,SUB,Submission,1,2:39,159,159,c051c2e12d692b8a
+84973bbdffaf0d0e,e2f6b2769aaedd6c,c9cf753cfdf77fc2,2c733e059462c1dc,Heavyweight,SUB,Submission,1,1:44,104,104,e2f6b2769aaedd6c
+e72a2130e7387637,e0c6edcb5b5d0b90,29af297d9f1de0f8,2c733e059462c1dc,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,e0c6edcb5b5d0b90
+7b4284bd3033a319,b7c5eb7cdbac6a63,0f1efce7d2571d10,2c733e059462c1dc,Welterweight,S-DEC,Split Decision,3,5:00,300,900,b7c5eb7cdbac6a63
+6aa89b7b5350b8e2,45f0cc9d18f35137,32feae6d9a1e5047,2c733e059462c1dc,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,45f0cc9d18f35137
+e0b14afd93af5638,3143bf892608139a,af9efbfd63d39734,2c733e059462c1dc,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,3143bf892608139a
+1332c1037c955d82,148bb103cfbf123e,68b8ebdfce9dbb61,2c733e059462c1dc,Bantamweight,SUB,Submission,2,1:55,115,415,148bb103cfbf123e
+a7ac1dfcdc083694,351c4ec637380ad5,91dac5e69e28d5b5,2c733e059462c1dc,Women's Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,351c4ec637380ad5
+6bcaa0de4003cc41,25f9a5f3e8a52618,d35f734c56a89103,2c733e059462c1dc,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,25f9a5f3e8a52618
+cd9851b8eadb53a9,52c2ae6d2f2d2613,082eba4cd80f736f,2c733e059462c1dc,Featherweight,SUB,Submission,1,3:52,232,232,52c2ae6d2f2d2613
+1b5d5af1bc0a34c7,1b35af4d1529adf6,d35298b6df168456,2c733e059462c1dc,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,1b35af4d1529adf6
+33655fd07cfbe034,2b6fc1c02736833d,65f09bacd3957381,fe435e440b5de0ff,Bantamweight,U-DEC,Unanimous Decision,5,5:00,300,1500,2b6fc1c02736833d
+b38450d9aa0f52b8,06734ca9d88dec3a,0d65c432720accb9,fe435e440b5de0ff,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,06734ca9d88dec3a
+bb85e207eba236bc,aa72b0f831d0bfe5,7c7332319c14094c,fe435e440b5de0ff,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,aa72b0f831d0bfe5
+2d39c26876246223,c58f51dedb310998,22a92d7f62195791,fe435e440b5de0ff,Welterweight,SUB,Submission,1,3:44,224,224,c58f51dedb310998
+d0d74672150ddea3,7447e9f28508106a,8e5d953bdb9ae5e7,fe435e440b5de0ff,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,7447e9f28508106a
+de767dd5216bcad9,58bbef3770bb2dfc,48a9a128784d53d1,fe435e440b5de0ff,Lightweight,KO/TKO,Knockout or Technical Knockout,3,3:36,216,816,58bbef3770bb2dfc
+fbbb703581440496,e90a2f22417af68e,a495f599e787614f,fe435e440b5de0ff,Light Heavyweight,KO/TKO,Knockout or Technical Knockout,2,3:18,198,498,e90a2f22417af68e
+1cd63899011c4bf6,ec13c393d029297d,3753714927f18437,fe435e440b5de0ff,Lightweight,KO/TKO,Knockout or Technical Knockout,1,4:45,285,285,ec13c393d029297d
+637f792270a0c746,6747ccd6d1acd266,1a9480fc288e55d7,fe435e440b5de0ff,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,6747ccd6d1acd266
+77df662671ce11c5,7772b283d288dbe2,6d38e41efa47a72d,fe435e440b5de0ff,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,7772b283d288dbe2
+f80143e1f3c3d319,e94085e821bd81de,6c9b66b43663f2f7,fe435e440b5de0ff,Women's Strawweight,S-DEC,Split Decision,3,5:00,300,900,e94085e821bd81de
+d038ff5ac21094f3,4c88a1db5a46c6a4,40a456a25d52ee65,fe435e440b5de0ff,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,4c88a1db5a46c6a4
+e6851877e33d343f,4e6738062d469256,0112352cb32f5026,fe435e440b5de0ff,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,4e6738062d469256
+ec5163539a133f17,b1b0729d27936f2f,f1fac969a1d70b08,026b4f7049085842,Welterweight,U-DEC,Unanimous Decision,5,5:00,300,1500,b1b0729d27936f2f
+ec434314c5438fc7,399afbabc02376b5,fa6796c55d6c5440,026b4f7049085842,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,1:00,60,60,399afbabc02376b5
+3e2bde19e752f64b,7826923b47f8d72a,887961364be5ceb3,026b4f7049085842,Lightweight,SUB,Submission,1,3:22,202,202,7826923b47f8d72a
+f02fed4e98048471,d1c65d2cf2925ddd,a93f94c923c3a9cb,026b4f7049085842,Middleweight,U-DEC,Unanimous Decision,3,5:00,300,900,d1c65d2cf2925ddd
+8a2e28da18ba6a25,040a74bb0a465c54,9560ff14eb3129f7,026b4f7049085842,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,040a74bb0a465c54
+45e6a9b56ee3a9d1,329e403448756217,361d49960a196976,026b4f7049085842,Featherweight,U-DEC,Unanimous Decision,3,5:00,300,900,329e403448756217
+678eda89a096dde8,7138a15258dabf20,51018a31ddf31eb2,026b4f7049085842,Women's Strawweight,U-DEC,Unanimous Decision,3,5:00,300,900,7138a15258dabf20
+9d8c32c60df0e287,60a42bf82447c919,42ac4020cba261ad,026b4f7049085842,Bantamweight,U-DEC,Unanimous Decision,3,5:00,300,900,60a42bf82447c919
+d6e240c47ba6034d,75353550928a7921,5d1b7e3dd9e11074,026b4f7049085842,Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,75353550928a7921
+16b0a16ab2e20fdb,6b56e94a59b7b134,9fe7af8b3fbe00a0,026b4f7049085842,Welterweight,U-DEC,Unanimous Decision,3,5:00,300,900,6b56e94a59b7b134
+026bb9fd1b3f239d,476fe566d2df676e,6370c1c1e12723d5,026b4f7049085842,Light Heavyweight,SUB,Submission,3,3:12,192,792,476fe566d2df676e
+3183dfe66fcdd25f,8b6e5dc2ba1edbe7,4729c93ba705a3bf,026b4f7049085842,Welterweight,SUB,Submission,1,2:50,170,170,8b6e5dc2ba1edbe7
+a5558e8fec59a687,0d5cc0170c1a7e71,0c25d0a5e8cdbf19,026b4f7049085842,Heavyweight,KO/TKO,Knockout or Technical Knockout,1,3:23,203,203,0d5cc0170c1a7e71
+dff2ef8fdde8c502,9c442aaf149ea982,87f8699fdcc2c404,026b4f7049085842,Women's Strawweight,S-DEC,Split Decision,3,5:00,300,900,9c442aaf149ea982
+4a00db8aeff200a2,7dda2cf308f24a02,3df5493bb279226f,c11036da9162cb5f,Women's Strawweight,SUB,Submission,2,4:48,288,588,7dda2cf308f24a02
+120ec60ad18cf6c5,97cf1a2c7c5e7889,a68575214ecad140,c11036da9162cb5f,Featherweight,KO/TKO,Knockout or Technical Knockout,1,1:36,96,96,97cf1a2c7c5e7889
+9eaa33f874bbb999,a7151778b3381036,ca36633b80be4a78,c11036da9162cb5f,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,a7151778b3381036
+94541dd979e0b4bd,294aa73dbf37d281,7f6ed67d3ed3c036,c11036da9162cb5f,Flyweight,KO/TKO,Knockout or Technical Knockout,2,2:58,178,478,294aa73dbf37d281
+ec8bc554a0646638,e93b04e308913c2e,9abc648e76c4493a,c11036da9162cb5f,Featherweight,KO/TKO,Knockout or Technical Knockout,2,3:38,218,518,e93b04e308913c2e
+6e6567a98ea78891,41cc71cbf210e0fe,d008d785f6347dc2,c11036da9162cb5f,Featherweight,KO/TKO,Knockout or Technical Knockout,1,1:05,65,65,41cc71cbf210e0fe
+40c18c6d64463809,700a674c042b7a96,7be14eaed4c74856,c11036da9162cb5f,Bantamweight,SUB,Submission,1,3:58,238,238,700a674c042b7a96
+e655774643881e6c,f29a6350c69f4a33,27b388f0aab49780,c11036da9162cb5f,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,f29a6350c69f4a33
+b3f1253d0a991791,cfc3e7bb44685289,8c169fbe1ac33637,c11036da9162cb5f,Lightweight,U-DEC,Unanimous Decision,3,5:00,300,900,cfc3e7bb44685289
+c3ef9edf73626521,528b071cf3da7c56,3cf66c62d9069f43,c11036da9162cb5f,Women's Flyweight,U-DEC,Unanimous Decision,3,5:00,300,900,528b071cf3da7c56
+836e9bc5c1f6acd3,764d39074a352e33,da7f113b5ea39c43,c11036da9162cb5f,Heavyweight,U-DEC,Unanimous Decision,3,5:00,300,900,764d39074a352e33
