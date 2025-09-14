@@ -30,16 +30,27 @@ To set up the project locally, follow these steps:
    ```
 
    This will start the Apache Airflow server.  
-   Once running, you will see three DAGs in the Airflow UI:
-   - `ufc_extraction_dag` (for extracting data)
-   - `ufc_transformation_dag` (for transforming data)
-   - `ufc_loading_dag` (for loading data)
+   Once running, open your browser and go to `http://localhost:8080` to access the Airflow UI.
+
+   ### Airflow Interface
+   ![Airflow Screen](images/airflow_screen.png)
+
+   ### Airflow DAGs
+   ![Airflow DAGs](images/airflow_3_dags.png)
+
+   The interface will show three DAGs:
+   - `ufc_extraction_dag`
+   - `ufc_transformation_dag`
+   - `ufc_loading_dag`
 
    The extraction and transformation DAGs require no further steps.
 
 5. **Configure database connection for loading DAG**  
    For the loading DAG, you need to connect Airflow to your database:
    - In Airflow UI, go to **Admin > Connections** and configure your database connection.
+
+   ### Airflow Database Connection
+   ![Airflow Database Connection](images/airflow_database_connection.png)
 
 6. **Create the database schema**  
    Use DBeaver or another database tool to create your PostgreSQL database and tables with the following SQL:
