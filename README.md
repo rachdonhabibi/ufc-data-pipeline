@@ -6,6 +6,10 @@ This project is an end-to-end ETL pipeline for UFC event and fight data. It scra
 
 ## Getting Started
 
+Before using Airflow, you can manually test scripts in the `src_windows` folder.  
+The output files will be saved in the `Data` folder.  
+This is useful for quick local testing, but not part of the main pipeline.
+
 To set up the project locally, follow these steps:
 
 1. **Create a project folder**  
@@ -19,10 +23,17 @@ To set up the project locally, follow these steps:
    python -m venv ufc_env
    ```
 
-3. **Prepare Docker files**  
+3. **Install Apache Airflow (optional for manual runs)**  
+   To install Airflow locally, run:
+   ```
+   pip install apache-airflow
+   ```
+
+4. **Prepare Docker files**  
    Ensure you have `docker-compose.yaml` and `requirements.txt` in your project folder.
 
-4. **Start Airflow and services**  
+5. **Start Airflow and services**  
+    After starting Docker Desktop
    Run the following command to start the necessary services:
 
    ```
@@ -45,14 +56,14 @@ To set up the project locally, follow these steps:
 
    The extraction and transformation DAGs require no further steps.
 
-5. **Configure database connection for loading DAG**  
+6. **Configure database connection for loading DAG**  
    For the loading DAG, you need to connect Airflow to your database:
    - In Airflow UI, go to **Admin > Connections** and configure your database connection.
 
    ### Airflow Database Connection
    ![Airflow Database Connection](images/Postgres_connection.png)
 
-6. **Create the database schema**  
+7. **Create the database schema**  
    Use DBeaver or another database tool to create your PostgreSQL database and tables with the following SQL:
 
    ## Schema Creation
@@ -193,7 +204,7 @@ To set up the project locally, follow these steps:
    SELECT * FROM dim_date ;
    ```
 
-7. **Database schema diagram**  
+8. **Database schema diagram**  
    ![UFC Data Warehouse Schema](images/UFC_Data_Warehouse.png)
 
 ## Project Structure
