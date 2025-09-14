@@ -33,10 +33,10 @@ To set up the project locally, follow these steps:
    Once running, open your browser and go to `http://localhost:8080` to access the Airflow UI.
 
    ### Airflow Interface
-   ![Airflow Screen](images/airflow screen .png)
+   ![Airflow Screen](images/airflow_screen.png)
 
    ### Airflow DAGs
-   ![Airflow DAGs](images/3 dags.png)
+   ![Airflow DAGs](images/3_dags.png)
 
    The interface will show three DAGs:
    - `ufc_extraction_dag`
@@ -50,7 +50,7 @@ To set up the project locally, follow these steps:
    - In Airflow UI, go to **Admin > Connections** and configure your database connection.
 
    ### Airflow Database Connection
-   ![Airflow Database Connection](images/airflow database connection.png)
+   ![Airflow Database Connection](images/Postgres_database_connection.png)
 
 6. **Create the database schema**  
    Use DBeaver or another database tool to create your PostgreSQL database and tables with the following SQL:
