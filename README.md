@@ -207,6 +207,30 @@ To set up the project locally, follow these steps:
 8. **Database schema diagram**  
    ![UFC Data Warehouse Schema](images/UFC_Data_Warehouse.png)
 
+
+
+## Data Warehouse Schema Analysis
+
+This data warehouse uses a **star schema** model, with several fact tables linked to dimension tables:
+
+- **Fact tables:**
+  - `fight_details`: Numeric details of each fight (strikes, attempts, etc.).
+  - `fights`: Information about the fight itself (result, round, duration, winner, etc.).
+
+- **Dimension tables:**
+  - `fighters`: Descriptive information about fighters.
+  - `events`: Metadata about the event (name, date, location).
+  - `geo_dim`: Location details.
+  - `dim_date`: Time dimension (year, month, day, etc.).
+
+👉 This model is based on a star schema, but can also be described as a **constellation (galaxy) schema**, since multiple fact tables (`fights` and `fight_details`) share the same dimensions (`fighters`, `dim_date`, `events`).
+
+**Type:** Relational data warehouse in star schema / constellation schema  
+**Usage:** Analytical, ideal for OLAP queries (fight statistics, fighter performance, time-based analysis, etc.).
+
+
+
+
 ## Project Structure
 
 ```
@@ -263,21 +287,3 @@ UFC/
 - **requirements.txt**: Python dependencies for local development and pipeline execution.
 - **README.md**: Project documentation and setup instructions.
 
-## Data Warehouse Schema Analysis
-
-This data warehouse uses a **star schema** model, with several fact tables linked to dimension tables:
-
-- **Fact tables:**
-  - `fight_details`: Numeric details of each fight (strikes, attempts, etc.).
-  - `fights`: Information about the fight itself (result, round, duration, winner, etc.).
-
-- **Dimension tables:**
-  - `fighters`: Descriptive information about fighters.
-  - `events`: Metadata about the event (name, date, location).
-  - `geo_dim`: Location details.
-  - `dim_date`: Time dimension (year, month, day, etc.).
-
-👉 This model is based on a star schema, but can also be described as a **constellation (galaxy) schema**, since multiple fact tables (`fights` and `fight_details`) share the same dimensions (`fighters`, `dim_date`, `events`).
-
-**Type:** Relational data warehouse in star schema / constellation schema  
-**Usage:** Analytical, ideal for OLAP queries (fight statistics, fighter performance, time-based analysis, etc.).
