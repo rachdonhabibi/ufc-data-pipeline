@@ -55,6 +55,8 @@ To set up the project locally, follow these steps:
 6. **Create the database schema**  
    Use DBeaver or another database tool to create your PostgreSQL database and tables with the following SQL:
 
+   ## Schema Creation
+
    ```sql
    -- 1. Date Dimension
    CREATE TABLE dim_date (
@@ -161,6 +163,23 @@ To set up the project locally, follow these steps:
        control_time_seconds INT,
        significant_strike_accuracy_opponent FLOAT
    );
+   ```
+
+   ---
+
+   ## Populating the Date Dimension (1950–2030)
+
+   You can use the following PostgreSQL block to fill the `dim_date` table with every day from 1950-01-01 to 2030-12-31:
+
+   ```sql
+   INSERT INTO dim_date (date_value, year, month, day, day_of_week)
+   SELECT
+       d::DATE AS date_value,
+       EXTRACT(YEAR FROM d)::INT AS year,
+       EXTRACT(MONTH FROM d)::INT AS month,
+       EXTRACT(DAY FROM d)::INT AS day,
+       EXTRACT(DOW FROM d)::INT AS day_of_week
+   FROM generate_series('1950-01-01'::DATE, '2030-12-31'::DATE, INTERVAL '1 day') AS d;
    ```
 
    You can verify your tables with:
