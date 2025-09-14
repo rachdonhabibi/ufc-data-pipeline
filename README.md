@@ -50,7 +50,7 @@ To set up the project locally, follow these steps:
    - In Airflow UI, go to **Admin > Connections** and configure your database connection.
 
    ### Airflow Database Connection
-   ![Airflow Database Connection](images/Postgres_database_connection.png)
+   ![Airflow Database Connection](images/Postgres_connection.png)
 
 6. **Create the database schema**  
    Use DBeaver or another database tool to create your PostgreSQL database and tables with the following SQL:
