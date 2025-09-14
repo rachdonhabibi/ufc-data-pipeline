@@ -2,8 +2,14 @@
 
 Every week, new UFC events and fights take place, generating a wealth of data on athletes, results, and performance metrics. Tracking and analyzing this information manually is time-consuming and error-prone. This project provides an automated solution: it scrapes fresh UFC data on a regular schedule, processes and cleans it, and loads it into a structured data warehouse. By leveraging Airflow for orchestration, you can easily schedule the pipeline to run after each event, ensuring your database is always up-to-date for analytics, reporting, and insights into fighters and fight outcomes. Whether you're a data analyst, sports enthusiast, or developer, this pipeline makes UFC data accessible and actionable.
 
+**Source:** [UFCStats Events](http://ufcstats.com/statistics/events/completed)
+
 ## Table of Contents
-<!-- To be filled as the README develops -->
+
+- [Getting Started](#getting-started)
+- [Data Warehouse Schema Analysis](#data-warehouse-schema-analysis)
+- [Usage Examples](#usage-examples)
+- [Project Structure](#project-structure)
 
 ## Getting Started
 
@@ -229,7 +235,7 @@ This data warehouse uses a **star schema** model, with several fact tables linke
 
 ## Usage Examples
 
-Here are some example SQL queries and their visualizations:
+The following queries and visualizations are based on the 50 UFC events before September 13, 2025.
 
 ### Top 10 Fighters by Wins
 
@@ -256,6 +262,18 @@ WHERE fd.significant_strike_accuracy < 0.3;
 
 ---
 
+### Fighters Ranked by Total Knockdowns
+
+```sql
+SELECT f.fighter_name, SUM(fd.knockdowns) AS total_knockdowns
+FROM fighters f
+JOIN fight_details fd ON f.fighter_id = fd.fighter_id
+GROUP BY f.fighter_name
+ORDER BY total_knockdowns DESC;
+```
+![Fighters by Knockdowns](images/number_kd.png)
+
+---
 
 ### Fighters Ranked by Average Significant Strike Accuracy
 
