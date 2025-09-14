@@ -3,7 +3,6 @@ import pandas as pd
 INPUT_CSV = r'd:\1 Projects\UFC\data\raw\all_event_fights.csv'
 OUTPUT_CSV = r'd:\1 Projects\UFC\data\processed\all_event_fights_transformed.csv'
 
-# Mapping for method_type
 METHOD_MAP = {
     "KO/TKO": "Knockout or Technical Knockout",
     "U-DEC": "Unanimous Decision",
@@ -13,7 +12,6 @@ METHOD_MAP = {
     "DQ": "Disqualification",
     "CNC": "Cancelled",
     "NC": "No Contest"
-    # Add more as needed
 }
 
 def time_to_seconds(t):
@@ -24,7 +22,6 @@ def time_to_seconds(t):
         return None
 
 def extract_id(url, key):
-    # Extract the part after '/<key>/'
     try:
         return url.split(f'/{key}/')[-1] if pd.notnull(url) else ""
     except Exception:

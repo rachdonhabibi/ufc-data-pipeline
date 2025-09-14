@@ -6,7 +6,6 @@ INPUT_CSV = '/opt/airflow/data_airflow/raw/fighters.csv'
 OUTPUT_CSV = '/opt/airflow/data_airflow/processed/fighters_cleaned.csv'
 
 def height_to_cm(height):
-    # e.g. "6' 1\""
     m = re.match(r"(\d+)'[\s]*(\d+)", str(height))
     if m:
         feet, inches = int(m.group(1)), int(m.group(2))
@@ -14,7 +13,6 @@ def height_to_cm(height):
     return None
 
 def weight_to_kg(weight):
-    # e.g. "170 lbs."
     m = re.match(r"(\d+)\s*lbs", str(weight))
     if m:
         lbs = int(m.group(1))
@@ -22,7 +20,6 @@ def weight_to_kg(weight):
     return None
 
 def reach_to_cm(reach):
-    # e.g. "72\""
     m = re.match(r"(\d+)", str(reach))
     if m:
         inches = int(m.group(1))
@@ -30,16 +27,13 @@ def reach_to_cm(reach):
     return None
 
 def parse_record(record):
-    # Handles "9/1/0", "16-1-0", "30-10-0 (1 NC)", etc.
     record = str(record).strip()
     wins = losses = draws = nc = None
-    # Try dash format first
     m = re.match(r"(\d+)[-/](\d+)[-/](\d+)(?:\s*\((\d+)\s*NC\))?", record)
     if m:
         wins, losses, draws = int(m.group(1)), int(m.group(2)), int(m.group(3))
         nc = int(m.group(4)) if m.group(4) else None
         return pd.Series([wins, losses, draws, nc])
-    # Try slash format (but not a date)
     m = re.match(r"(\d+)[/](\d+)[/](\d+)", record)
     if m:
         wins, losses, draws = int(m.group(1)), int(m.group(2)), int(m.group(3))
@@ -66,7 +60,6 @@ def calc_age(dob):
         return None
 
 def extract_fighter_id(url):
-    # Extract the part after '/fighter-details/'
     return url.split('/fighter-details/')[-1] if pd.notnull(url) else ""
 
 def main():
@@ -81,7 +74,6 @@ def main():
     df['reach_to_height_ratio'] = df['reach_cm'] / df['height_cm']
     df['total_fights'] = df[['wins', 'losses', 'draws', 'nc']].fillna(0).sum(axis=1).astype(int)
 
-    # Rename and convert columns
     df['significant_strikes_landed_per_minute'] = df['slpm'].astype(float)
     df['significant_strike_accuracy'] = df['str_acc'].apply(percent_to_float)
     df['significant_strikes_absorbed_per_minute'] = df['sapm'].astype(float)
@@ -91,7 +83,6 @@ def main():
     df['takedown_defense'] = df['td_def'].apply(percent_to_float)
     df['submission_average_per_15_min'] = df['sub_avg'].astype(float)
 
-    # Final column order
     df = df[['fighter_name', 'fighter_url', 'height_cm', 'weight_kg', 'reach_cm', 'stance', 'dob', 'age',
              'wins', 'losses', 'draws', 'nc', 'total_fights', 'reach_to_height_ratio',
              'record',

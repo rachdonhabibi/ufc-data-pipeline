@@ -29,7 +29,6 @@ def main():
     conn = psycopg2.connect(**DB_CONFIG)
     cur = conn.cursor()
 
-    # Make sure unique constraint exists in events
     cur.execute("""
         DO $$
         BEGIN

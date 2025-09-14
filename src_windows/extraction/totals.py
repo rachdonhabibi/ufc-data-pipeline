@@ -25,7 +25,6 @@ COLUMNS = [
 ]
 
 def extract_referee(soup):
-    # Find the referee name in the fight details section
     ref_span = soup.find("i", string=lambda s: s and "Referee:" in s)
     if ref_span:
         parent = ref_span.parent
@@ -45,7 +44,6 @@ def extract_totals_table(url):
     soup = BeautifulSoup(resp.text, "html.parser")
     referee = extract_referee(soup)
 
-    # Cherche la bonne section/table
     for section in soup.select('section.b-fight-details__section.js-fight-section'):
         table = section.find('table')
         if not table:
@@ -95,7 +93,7 @@ def main():
         for r in rows:
             r["fight_url"] = url
             results.append(r)
-        time.sleep(0.5)  # Un peu plus long pour Windows
+        time.sleep(0.5)  
 
     df = pd.DataFrame(results, columns=COLUMNS)
     df.to_csv(OUTPUT_CSV, index=False, encoding="utf-8")

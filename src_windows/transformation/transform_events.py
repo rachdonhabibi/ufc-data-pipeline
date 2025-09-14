@@ -19,7 +19,6 @@ def split_location(location):
     return pd.Series([city, state_or_region, country])
 
 def extract_event_id(url):
-    # Extract the part after '/event-details/'
     return url.split('/event-details/')[-1] if pd.notnull(url) else ""
 
 def main():

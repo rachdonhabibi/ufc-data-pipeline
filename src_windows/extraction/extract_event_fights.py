@@ -10,7 +10,6 @@ def _clean(s):
     return re.sub(r"\s+", " ", s).strip() if s else None
 
 def _fight_link(tr):
-    # Prefer data-link, fallback to onclick or an <a> href
     url = tr.get("data-link")
     if url:
         return url
@@ -35,24 +34,19 @@ def get_event_fights(event_url: str):
         if len(tds) < 10:
             continue
 
-        # Fighter URLs (first two black links)
         a_tags = tr.select("a.b-link.b-link_style_black")
         f1_url = a_tags[0].get("href") if len(a_tags) > 0 else None
         f2_url = a_tags[1].get("href") if len(a_tags) > 1 else None
 
-        # Winner: if W/L cell contains "win", the first fighter is winner; else "DRAW"
         wl_text = _clean(tds[0].get_text(" ", strip=True)).lower()
         winner = f1_url if ("win" in wl_text) else "DRAW"
 
-        # Weight class (first line only)
         wc_text = tds[6].get_text("\n", strip=True)
         weight_class = _clean(wc_text.split("\n")[0])
 
-        # Method (first line only)
         method_text = tds[7].get_text("\n", strip=True)
         method = _clean(method_text.split("\n")[0])
 
-        # Round and Time
         round_ = _clean(tds[8].get_text(strip=True))
         time_ = _clean(tds[9].get_text(strip=True))
 

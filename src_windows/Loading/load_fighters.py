@@ -12,15 +12,12 @@ DB_CONFIG = {
 }
 
 def clean_row(row):
-    # Remove 'significant_strike_defense' from row
     row = row.drop('significant_strike_defense', errors='ignore')
     return [None if (pd.isna(x) or x == '') else x for x in row]
 
 def main():
     df = pd.read_csv(CSV_PATH)
-    df = df.fillna('')  # Replace NaN with empty string for all columns
-
-    # Drop the column if present
+    df = df.fillna('')  
     if 'significant_strike_defense' in df.columns:
         df = df.drop(columns=['significant_strike_defense'])
 

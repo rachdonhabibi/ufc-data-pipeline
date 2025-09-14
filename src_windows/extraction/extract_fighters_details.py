@@ -34,7 +34,6 @@ def scrape_fighter_details(url: str) -> dict:
 
     soup = BeautifulSoup(r.text, "html.parser")
 
-    # Name & Record
     name_tag = soup.select_one("span.b-content__title-highlight")
     fighter_name = _clean(name_tag.get_text(strip=True)) if name_tag else None
 
@@ -48,7 +47,6 @@ def scrape_fighter_details(url: str) -> dict:
     height = weight = reach = stance = dob = None
     slpm = str_acc = sapm = str_def = td_avg = td_acc = td_def = sub_avg = None
 
-    # Physical stats box
     info_box = soup.select_one("div.b-list__info-box_style_small-width")
     if info_box:
         for li in info_box.select("li"):
@@ -69,7 +67,6 @@ def scrape_fighter_details(url: str) -> dict:
             elif "dob" in label:
                 dob = value
 
-    # Career stats box
     stats_box = soup.select_one("div.b-list__info-box_style_middle-width")
     if stats_box:
         for li in stats_box.select("li"):
@@ -129,7 +126,6 @@ if __name__ == "__main__":
         time.sleep(0.3)  # be polite
 
     df = pd.DataFrame(results)
-    # Ensure uniqueness by fighter_url (keep first)
     df = df.drop_duplicates(subset=["fighter_url"])
     df = df[ [
         "fighter_name","fighter_url","height","weight","reach","stance","dob",

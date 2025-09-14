@@ -41,17 +41,14 @@ def main():
     df_strikes = pd.read_csv(SIGNIFICANT_STRIKES_CSV)
     df_totals = pd.read_csv(FIGHT_TOTALS_CSV)
 
-    # Extract only the unique IDs for fighter_url and fight_url
     df_strikes['fighter_url'] = df_strikes['fighter_url'].apply(extract_fighter_id)
     df_strikes['fight_url'] = df_strikes['fight_url'].apply(extract_fight_id)
     df_totals['fighter_url'] = df_totals['fighter_url'].apply(extract_fighter_id)
     df_totals['fight_url'] = df_totals['fight_url'].apply(extract_fight_id)
 
-    # Join on fight_url and fighter_url (if both have fighter_url, otherwise just fight_url)
     join_cols = ['fight_url', 'fighter_url'] if 'fighter_url' in df_strikes.columns and 'fighter_url' in df_totals.columns else ['fight_url']
     df_merged = pd.merge(df_strikes, df_totals, on=join_cols, how='inner')
 
-    # Split "X of Y" columns
     for col, new_base in [
         ('Sig. str', 'significant_strikes'),
         ('Head', 'head_strikes'),
@@ -66,25 +63,20 @@ def main():
         df_merged[f'{new_base}_landed'] = landed
         df_merged[f'{new_base}_attempted'] = attempted
 
-    # Split Td (Takedowns)
     td_landed, td_attempted = zip(*df_merged['Td'].map(td_split))
     df_merged['takedowns_landed'] = td_landed
     df_merged['takedowns_attempted'] = td_attempted
 
-    # Convert percentage columns
     df_merged['significant_strike_accuracy'] = df_merged['Sig. str. %_x'].map(percent_to_float)
     df_merged['significant_strike_accuracy_opponent'] = df_merged['Sig. str. %_y'].map(percent_to_float)
     df_merged['takedown_accuracy'] = df_merged['Td %'].map(percent_to_float)
 
-    # Convert KD, Sub. att, Rev. to integer
     df_merged['knockdowns'] = df_merged['KD'].astype(int)
     df_merged['submission_attempts'] = df_merged['Sub. att'].astype(int)
     df_merged['reversals'] = df_merged['Rev.'].astype(int)
 
-    # Convert Ctrl to seconds
     df_merged['control_time_seconds'] = df_merged['Ctrl'].map(ctrl_to_seconds)
 
-    # Select and rename columns
     df_clean = df_merged[[
         'fighter_url', 'fight_url', 'referee',
         'significant_strikes_landed', 'significant_strikes_attempted', 'significant_strike_accuracy',
