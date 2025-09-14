@@ -34,8 +34,8 @@ To set up the project locally, follow these steps:
    Ensure you have `docker-compose.yaml` and `requirements.txt` in your project folder.
 
 5. **Start Airflow and services**  
-    After starting Docker Desktop
-   Run the following command to start the necessary services:
+    After starting Docker Desktop  
+    Run the following command to start the necessary services:
 
    ```
    docker compose up -d
@@ -208,8 +208,6 @@ To set up the project locally, follow these steps:
 8. **Database schema diagram**  
    ![UFC Data Warehouse Schema](images/UFC_Data_Warehouse.png)
 
-
-
 ## Data Warehouse Schema Analysis
 
 This data warehouse uses a **star schema** model, with several fact tables linked to dimension tables:
@@ -229,8 +227,60 @@ This data warehouse uses a **star schema** model, with several fact tables linke
 **Type:** Relational data warehouse in star schema / constellation schema  
 **Usage:** Analytical, ideal for OLAP queries (fight statistics, fighter performance, time-based analysis, etc.).
 
+## Usage Examples
 
+Here are some example SQL queries and their visualizations:
 
+### Top 10 Fighters by Wins
+
+```sql
+SELECT fighter_name, wins
+FROM fighters
+ORDER BY wins DESC
+LIMIT 10;
+```
+![Top 10 Fighters by Wins](images/fighters_wins.png)
+
+---
+
+### Fights Where Winner's Significant Strike Accuracy < 30%
+
+```sql
+SELECT fi.fight_id, f.fighter_name AS winner, fd.significant_strike_accuracy
+FROM fights fi
+JOIN fighters f ON fi.winner_id = f.fighter_id
+JOIN fight_details fd ON fi.fight_id = fd.fight_id AND fd.fighter_id = fi.winner_id
+WHERE fd.significant_strike_accuracy < 0.3;
+```
+![Fights with Winner's Accuracy < 30%](images/fight_less_than_30.png)
+
+---
+
+### Fighters Ranked by Total Knockdowns
+
+```sql
+SELECT f.fighter_name, SUM(fd.knockdowns) AS total_knockdowns
+FROM fighters f
+JOIN fight_details fd ON f.fighter_id = fd.fighter_id
+GROUP BY f.fighter_name
+ORDER BY total_knockdowns DESC;
+```
+![Fighters by Knockdowns](images/number_kd.png)
+
+---
+
+### Fighters Ranked by Average Significant Strike Accuracy
+
+```sql
+SELECT f.fighter_name, AVG(fd.significant_strike_accuracy) AS avg_accuracy
+FROM fight_details fd
+JOIN fighters f ON fd.fighter_id = f.fighter_id
+GROUP BY f.fighter_name
+ORDER BY avg_accuracy DESC;
+```
+![Fighters by Average Strike Accuracy](images/avg_strikes.png)
+
+---
 
 ## Project Structure
 
