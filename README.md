@@ -260,18 +260,6 @@ WHERE fd.significant_strike_accuracy < 0.3;
 ```
 ![Fights with Winner's Accuracy < 30%](images/fight_less_than_30.png)
 
----
-
-### Fighters Ranked by Total Knockdowns
-
-```sql
-SELECT f.fighter_name, SUM(fd.knockdowns) AS total_knockdowns
-FROM fighters f
-JOIN fight_details fd ON f.fighter_id = fd.fighter_id
-GROUP BY f.fighter_name
-ORDER BY total_knockdowns DESC;
-```
-![Fighters by Knockdowns](images/number_kd.png)
 
 ---
 
