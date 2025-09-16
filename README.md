@@ -233,6 +233,30 @@ This data warehouse uses a **star schema** model, with several fact tables linke
 **Type:** Relational data warehouse in star schema / constellation schema  
 **Usage:** Analytical, ideal for OLAP queries (fight statistics, fighter performance, time-based analysis, etc.).
 
+## Kimball Approach: Why Dimensional Modeling is Ideal for UFC Fight Data
+
+Choosing the Kimball methodology for this project is a deliberate decision, tailored to the analytical nature of UFC fight data. Here’s why the Kimball approach is the best fit:
+
+1. **Nature of the Data: Analytical, Not Transactional**  
+   UFC data revolves around events, facts, and dimensions (fights, fighters, dates, locations, etc.), which aligns perfectly with Kimball’s dimensional modeling. The primary goal is to analyze trends, performance, and statistics—not to track transactional updates or operational workflows.
+
+2. **Star Schema = User-Friendly Analytics**  
+   Kimball’s star and constellation schemas are designed for easy querying and reporting. Analysts, data scientists, and BI tools can quickly slice and dice data (e.g., "Average strikes per round by fighter across all events in 2023") without complex joins or deep technical skills.
+
+3. **OLAP and Aggregation Needs**  
+   UFC data is often aggregated: totals per event, win/loss streaks, fighter stats over time, etc. Kimball models optimize for these aggregations with denormalized tables (facts and dimensions), whereas Inmon’s normalized approach is less efficient for these use cases.
+
+4. **Speed and Performance**  
+   Star schemas reduce join complexity and enable faster queries for analytics—critical when exploring large, detailed fight datasets. BI/reporting tools integrate seamlessly with dimensional models, further speeding up analysis.
+
+5. **Flexibility for Evolving Sports Data**  
+   New stats or dimensions (e.g., new fight metrics, locations, rules) can be added easily by extending fact or dimension tables. Kimball’s approach supports incremental growth without major redesigns.
+
+6. **Self-Service and Accessibility**  
+   Business users and analysts can intuitively explore the warehouse, as opposed to Inmon’s normalized model, which is more technical and complex. Kimball’s approach empowers stakeholders to generate insights without needing data engineering help for every question.
+
+
+
 ## Usage Examples
 
 The following queries and visualizations are based on the 50 UFC events before September 13, 2025.
@@ -273,6 +297,23 @@ GROUP BY f.fighter_name
 ORDER BY avg_accuracy DESC;
 ```
 ![Fighters by Average Strike Accuracy](images/avg_strikes.png)
+---
+
+## Medallion Architecture: From Raw to Gold Data
+
+This project follows a **medallion architecture** to structure and manage data quality through multiple stages:
+
+- **Bronze (Raw):**  
+  The raw data extracted from UFCStats is stored in the `data_airflow/raw` folder. This layer contains unprocessed, original data as scraped from the source.
+
+- **Silver (Processed):**  
+  After transformation, cleaned and structured data is saved in the `data_airflow/processed` folder. This silver layer is ready for further analysis and ensures consistency and quality.
+
+- **Gold (Ready for Analytics):**  
+  Once the processed data is loaded into the PostgreSQL data warehouse, it becomes the gold layer—optimized and ready for visualization, reporting, and advanced analytics.
+
+![Medallion Architecture](images/medaillon.png)
+
 
 ---
 
@@ -331,41 +372,4 @@ UFC/
 - **docker-compose.yaml**: Docker configuration for running Airflow, PostgreSQL, and Redis.
 - **requirements.txt**: Python dependencies for local development and pipeline execution.
 - **README.md**: Project documentation and setup instructions.
-
-## Kimball Approach: Why Dimensional Modeling is Ideal for UFC Fight Data
-
-Choosing the Kimball methodology for this project is a deliberate decision, tailored to the analytical nature of UFC fight data. Here’s why the Kimball approach is the best fit:
-
-1. **Nature of the Data: Analytical, Not Transactional**  
-   UFC data revolves around events, facts, and dimensions (fights, fighters, dates, locations, etc.), which aligns perfectly with Kimball’s dimensional modeling. The primary goal is to analyze trends, performance, and statistics—not to track transactional updates or operational workflows.
-
-2. **Star Schema = User-Friendly Analytics**  
-   Kimball’s star and constellation schemas are designed for easy querying and reporting. Analysts, data scientists, and BI tools can quickly slice and dice data (e.g., "Average strikes per round by fighter across all events in 2023") without complex joins or deep technical skills.
-
-3. **OLAP and Aggregation Needs**  
-   UFC data is often aggregated: totals per event, win/loss streaks, fighter stats over time, etc. Kimball models optimize for these aggregations with denormalized tables (facts and dimensions), whereas Inmon’s normalized approach is less efficient for these use cases.
-
-4. **Speed and Performance**  
-   Star schemas reduce join complexity and enable faster queries for analytics—critical when exploring large, detailed fight datasets. BI/reporting tools integrate seamlessly with dimensional models, further speeding up analysis.
-
-5. **Flexibility for Evolving Sports Data**  
-   New stats or dimensions (e.g., new fight metrics, locations, rules) can be added easily by extending fact or dimension tables. Kimball’s approach supports incremental growth without major redesigns.
-
-6. **Self-Service and Accessibility**  
-   Business users and analysts can intuitively explore the warehouse, as opposed to Inmon’s normalized model, which is more technical and complex. Kimball’s approach empowers stakeholders to generate insights without needing data engineering help for every question.
-
-## Medallion Architecture: From Raw to Gold Data
-
-This project follows a **medallion architecture** to structure and manage data quality through multiple stages:
-
-- **Bronze (Raw):**  
-  The raw data extracted from UFCStats is stored in the `data_airflow/raw` folder. This layer contains unprocessed, original data as scraped from the source.
-
-- **Silver (Processed):**  
-  After transformation, cleaned and structured data is saved in the `data_airflow/processed` folder. This silver layer is ready for further analysis and ensures consistency and quality.
-
-- **Gold (Ready for Analytics):**  
-  Once the processed data is loaded into the PostgreSQL data warehouse, it becomes the gold layer—optimized and ready for visualization, reporting, and advanced analytics.
-
-![Medallion Architecture](images/medaillon.png)
 
