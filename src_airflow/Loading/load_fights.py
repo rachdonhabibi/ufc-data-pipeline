@@ -1,6 +1,6 @@
 import pandas as pd
 import psycopg2
-
+#
 CSV_PATH = '/opt/airflow/data_airflow/processed/all_event_fights_transformed.csv'
 
 DB_CONFIG = {

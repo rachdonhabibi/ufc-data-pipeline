@@ -2,7 +2,7 @@ import time
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-
+#
 HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 OUT_CSV = r"D:\1 Projects\UFC\data\raw\fighters.csv"

@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-
+#
 SIGNIFICANT_STRIKES_CSV = r'd:\1 Projects\UFC\data\raw\fight_significant_strikes_totals.csv'
 FIGHT_TOTALS_CSV = r'd:\1 Projects\UFC\data\raw\fight_totals.csv'
 OUTPUT_CSV = r'd:\1 Projects\UFC\data\processed\fight_details.csv'

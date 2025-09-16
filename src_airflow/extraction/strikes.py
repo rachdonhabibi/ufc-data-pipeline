@@ -3,7 +3,7 @@ import time
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-
+#
 INPUT_CSV = "/opt/airflow/data_airflow/raw/all_event_fights.csv"
 OUTPUT_CSV = "/opt/airflow/data_airflow/raw/fight_significant_strikes_totals.csv"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0.0.0 Safari/537.36"

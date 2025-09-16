@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from pathlib import Path
-
+#
 INPUT_CSV = Path(r'd:\1 Projects\UFC\data\raw\all_event_fights.csv')
 OUTPUT_CSV = Path(r'd:\1 Projects\UFC\data\raw\fight_totals.csv')
 HEADERS = {"User-Agent": "Mozilla/5.0"}

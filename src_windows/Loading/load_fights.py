@@ -1,6 +1,6 @@
 import pandas as pd
 import psycopg2
-
+#
 CSV_PATH = r'd:\1 Projects\UFC\data\processed\all_event_fights_transformed.csv'
 
 DB_CONFIG = {

@@ -1,5 +1,5 @@
 import pandas as pd
-
+#
 INPUT_CSV = r'd:\1 Projects\UFC\data\raw\all_event_fights.csv'
 OUTPUT_CSV = r'd:\1 Projects\UFC\data\processed\all_event_fights_transformed.csv'
 

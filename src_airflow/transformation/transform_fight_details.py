@@ -1,6 +1,6 @@
 import pandas as pd
 import re
-
+#
 SIGNIFICANT_STRIKES_CSV = '/opt/airflow/data_airflow/raw/fight_significant_strikes_totals.csv'
 FIGHT_TOTALS_CSV = '/opt/airflow/data_airflow/raw/fight_totals.csv'
 OUTPUT_CSV = '/opt/airflow/data_airflow/processed/fight_details.csv'
